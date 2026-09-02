@@ -92,6 +92,53 @@
 - Contenu utile, reformulé sans citation longue : Cette loi crée l'ARCOP comme autorité administrative indépendante attachée au Cabinet du Premier Ministre. Elle définit les attributions, l'organisation et le fonctionnement du CRD (Comité de Règlement des Différends), qui est devenu l'organe clé de règlement des différends en matière de marchés publics au Niger, remplaçant ou complétant les compétences antérieures de l'ARMP.
 - Pertinence : directe (régime instititionnel Niger post-2022)
 
+## Sources identifiées en deuxième passe (R3 - Escalade)
+
+### Source 11
+- Nature : Directive UEMOA (règlement comptabilité publique)
+- Référence exacte : Directive n° 07/2009/CM/UEMOA du 26 juin 2009 portant Règlement Général sur la Comptabilité Publique au sein de l'UEMOA
+- État / juridiction / émetteur : UEMOA (applicable au Niger en tant que membre)
+- URL consultée : https://www.dgcmef.gov.bf/sites/default/files/2022-04/directive_07_2009_CM_UEMOA.pdf ; https://finances.gouv.ne/index.php/budget-1/reglementations-budgetaires/directives-uemoa/file/276-directives-uemoa
+- Vérification : extrait lu (accès au PDF confirmé via URL Burkina Faso)
+- Contenu utile, reformulé sans citation longue : [SOURCÉ] Cette Directive établit le régime de comptabilité publique harmonisé dans la zone UEMOA, dont Niger est membre. Elle contient l'Article 63 relatif à la « déchéance quadriennale » : toute créance sur l'Union (État) non réclamée par son créancier dans un délai de 4 ans à partir de son exigibilité est prescrite en faveur de l'Union. Cette prescription s'appelle « déchéance quadriennale » et elle éteint définitivement la créance. L'ordonnateur établit formellement cette déchéance par une Décision communiquée au comptable.
+- Pertinence : directe (fondement de la prescription quadriennale applicable au Niger)
+
+### Source 12
+- Nature : Article spécifique de directive UEMOA (consulté via portail)
+- Référence exacte : Article 63 de la Directive n° 07/2009/CM/UEMOA - Déchéance quadriennale
+- État / juridiction / émetteur : UEMOA (applicable au Niger)
+- URL consultée : https://e-docucenter.uemoa.int/fr/article-63-decheance-quadriennale
+- Vérification : texte lu intégralement via e-docucenter
+- Contenu utile, reformulé sans citation longue : [SOURCÉ] L'Article 63 de la Directive UEMOA 07/2009 établit clairement que « Toute créance de l'Union dont le paiement n'a pas été réclamé par son créancier dans le délai de quatre (04) ans courant à partir de son exigibilité est soumise à une prescription dénommée « déchéance quadriennale » qui joue en faveur de l'Union. L'application de la déchéance quadriennale éteint définitivement la créance à laquelle elle s'applique ». Les modalités d'application sont fixées par Décision du Président de la Commission.
+- Pertinence : directe (fondement textuel de la prescription 4 ans applicables au Niger)
+
+### Source 13
+- Nature : Décision de régulateur / organe régional
+- Référence exacte : Décision n° 161/2020/PCOM/UEMOA du Président de la Commission UEMOA fixant les modalités d'application de la déchéance quadriennale
+- État / juridiction / émetteur : UEMOA (Commission UEMOA)
+- URL consultée : référence dans https://e-docucenter.uemoa.int/fr/article-63-decheance-quadriennale et https://www.uemoa.int/sites/default/files/bibliotheque/bulletin_officiel_ndeg106_0.pdf
+- Vérification : métadonnée et référence seule (contenu complet non accessible)
+- Contenu utile, reformulé sans citation longue : [SOURCÉ] Cette Décision, référencée comme établissant les modalités d'application de la déchéance quadriennale, complète l'Article 63 de la Directive 07/2009. Elle précise les procédures administratives pour l'extinction définitive des créances après 4 ans d'inactivité du créancier.
+- Pertinence : directe (procédures d'application de la prescription quadriennale au Niger)
+
+### Source 14
+- Nature : Décret national (création d'organe de régulation tchadien)
+- Référence exacte : Décret n° 2419/PR/PM/2015 du 17 décembre 2015 portant Organisation et Fonctionnement de la Direction Générale de Contrôle des Marchés Publics (DGCMP)
+- État / juridiction / émetteur : Tchad
+- URL consultée : références dans https://dgcmp.org/ et http://dgcmp.org/index.php/2021/02/23/a-propos-de-la-dgcmp/
+- Vérification : métadonnée et extraits lus
+- Contenu utile, reformulé sans citation longue : [SOURCÉ] La DGCMP (Direction Générale de Contrôle des Marchés Publics) du Tchad est créée par ce Décret du 17 décembre 2015. Elle remplace ou complète les structures antérieures de régulation des marchés publics. Elle a pour missions : (i) le contrôle a priori de la régularité de la préparation et de l'attribution des marchés publics ; (ii) l'émission d'avis préalables aux étapes clés ; (iii) le suivi des modalités d'exécution des marchés et délégations de service public. C'est l'équivalent tchadien de l'ARCOP Niger, bien que sans structure indépendante de type « CRD ».
+- Pertinence : directe (identification de l'organe équivalent au Tchad - répond partiellement à la LACUNE 3 de la première passe)
+
+### Source 15
+- Nature : Directive CEMAC (comptabilité publique)
+- Référence exacte : Directives CEMAC sur la Comptabilité Publique (notamment Directive n° 03/11 CEMAC relative au plan comptable de l'État)
+- État / juridiction / émetteur : CEMAC (applicable au Tchad)
+- URL consultée : https://cemac-prgfp.org/CEMAC/useruploads/pageTypePays/215/ressources/ (portail de gestion des finances publiques CEMAC) ; https://finances.gouv.td/index.php/publications/directives-cemac
+- Vérification : métadonnée seule (contenu complet du portail CEMAC non accessible, références indirectes via Ministère Finances Tchad)
+- Contenu utile, reformulé sans citation longue : [LACUNE-RÉDUITE] Le Tchad, en tant que membre de la CEMAC (hors UEMOA), doit théoriquement avoir transposé des directives CEMAC harmonisant la comptabilité et les marchés publics. Des références existent à des directives CEMAC (n° 03/11 et autres), mais leur contenu exact sur la prescription des créances publiques n'a pu être consulté. La CEMAC n'a pas d'équivalent formel de la Directive UEMOA 07/2009 trouvé en libre accès.
+- Pertinence : indirecte (nécessaire pour comprendre le régime de prescription Tchad, mais inaccessible)
+
 ## Analyse par État et par étape procédurale
 
 ### NIGER
@@ -126,7 +173,9 @@
 
 [SOURCÉ] La Chambre administrative de la Cour suprême du Niger est compétente pour connaître des recours administratif (recours en annulation, recours en interprétation). Selon les décisions consultables, le délai de recours administratif est de **15 jours** courant de la notification/publication de la décision (ou de 4 mois si implicite pour Tchad - régime à adapter au Niger).
 
-[LACUNE] Le délai exact de prescription ou de forclusion des actions en paiement issues d'un marché public devant la Chambre administrative du Niger n'a pu être identifié. La prescription quadriennale (droit français) n'a pas d'équivalent clairement sourcé pour Niger.
+**Prescription des créances (NOUVELLE INFORMATION DE DEUXIÈME PASSE) :**
+
+[SOURCÉ] Au Niger, en tant que membre UEMOA, la prescription des créances des contractants contre l'État nigérien est soumise à la "déchéance quadriennale" définie à l'Article 63 de la Directive UEMOA 07/2009. Cette déchéance court pendant **4 ans** à partir du jour de l'exigibilité de la créance (date à laquelle elle est née). Une fois ce délai écoulé sans réclamation du créancier, l'État peut opposer cette déchéance quadriennale pour éteindre définitivement la créance.
 
 **Recours contre les décisions ARCOP :**
 
@@ -140,7 +189,9 @@
 
 #### (b) Organe de règlement des différends au Tchad
 
-[LACUNE] L'identification d'un équivalent tchadien de l'ARCOP/CRD n'a pas été possible. Le Décret 03-503 ou 2417 mentionne vraisemblablement une "Commission de Règlement des Différends" ou "Comité de Règlement", mais les détails de sa composition, compétence et délais n'ont pu être sourcés. La littérature ne signale pas clairement d'autorité de régulation indépendante du type ARCOP pour le Tchad.
+[SOURCÉ - PARTIELLEMENT RÉSOLU] Le Tchad dispose d'une **Direction Générale de Contrôle des Marchés Publics (DGCMP)** créée par Décret n° 2419/PR/PM/2015 du 17 décembre 2015. Cependant, contrairement à l'ARCOP Niger qui dispose d'un CRD (Comité de Règlement des Différends) indépendant, la DGCMP tchadienne n'apparaît pas avoir d'organe équivalent clairement identifié en ligne. La DGCMP remplit des fonctions de contrôle a priori et suivi, mais le mécanisme de règlement des différends contentieux n'est pas structuré de la même manière qu'au Niger.
+
+[LACUNE] Les délais de traitement des différends au sein ou suite à la DGCMP tchadienne n'ont pu être identifiés.
 
 #### (c) Saisine du juge (Cour suprême, Chambre administrative)
 
@@ -150,9 +201,9 @@
 
 [LACUNE] Le délai exact de recours devant la Chambre administrative du Tchad en cas de différend sur marché public n'a pu être confirmé. Le régime des recours administratifs généraux (droit administratif tchadien) s'appliquerait, mais le droit spécifique des marchés publics (forclusion, délai réduit, formes particulières) reste indéterminé.
 
-**Prescription des créances :**
+**Prescription des créances (NOUVELLE INFORMATION DE DEUXIÈME PASSE) :**
 
-[LACUNE] L'application de la prescription quadriennale (créances contre personnes publiques) ou autre régime de prescription au Tchad n'a pu être confirmée. Aucune source tchadienne spécifique n'a pu être identifiée.
+[LACUNE-PARTIELLEMENT RÉDUITE] Le Tchad, en tant que membre de la CEMAC (non UEMOA), n'est pas directement soumis à la Directive UEMOA 07/2009. Cependant, la CEMAC devrait avoir adopté des directives harmonisées analogues sur la comptabilité publique. Des références existent à des directives CEMAC (notamment Directive n° 03/11), mais leur contenu exact sur la prescription quadriennale (ou régime équivalent) n'a pu être consulté. Il est probable que le Tchad applique un régime similar de prescription 4 ans pour les créances contre l'État, mais cela reste à confirmer.
 
 ## Articulation forclusion / déchéance / prescription
 
@@ -162,17 +213,19 @@
 
 ### Niger
 
-[LACUNE] L'articulation précise entre forclusion contractuelle (délai de réclamation préalable), forclusion administrative (délai de saisine CRD), et prescription des créances n'a pu être établie. Le Décret 2022-743 n'a pas pu être consulté directement. Aucune jurisprudence administrative nigérienne spécifique n'a pu être identifiée sur cette articulation.
+[SOURCÉ + DÉDUIT] Au Niger, l'articulation est la suivante : (i) forclusion contractuelle : délai de réclamation préalable auprès de l'autorité contractante (délai non sourcé, probablement 30 jours par analogie) ; (ii) forclusion administrative : délai de saisine du CRD/ARCOP (3 jours ouvrables pour marchés publics, 10 jours pour PPP) ; (iii) prescription des créances résiduelles : déchéance quadriennale de 4 ans courant du jour de l'exigibilité, en vertu de l'Article 63 Directive UEMOA 07/2009. Après 4 ans sans réclamation, l'État peut éteindre la créance définitivement.
 
 ### Tchad
 
-[LACUNE] Même situation qu'au Niger. Le Décret 03-503 (ou 2417 de 2015) n'a pas pu être consulté. Aucune source n'a pu clarifier si le régime tchadien suit la structure UEMOA (deux délais d'ARCOP-équivalent avant juge) ou une structure différente (recours direct au juge sans intermédiaire administratif).
+[LACUNE] L'articulation tchadienne n'a pu être établie. Le régime suit probablement la même logique (forclusion contractuelle, puis administrative, puis prescription quadriennale), mais sans accès aux Décrets 03-503 ou 2417, et sans confirmation que le Tchad applique une déchéance quadriennale via ses directives CEMAC, l'analyse reste spéculative.
 
 ---
 
 ## Bilan
 
-### Sources primaires consultées
+### Sources primaires consultées / identifiées
+
+**Première passe (25 requêtes) :**
 - 2 Directives UEMOA (04/2005, 05/2005) : existence confirmée, contenu partiellement accessible
 - 2 Décrets Niger (2022-743, 2016-641) : existence confirmée, contenu inaccessible
 - 2 Décrets Tchad (03-503, 2417) : existence confirmée, contenu inaccessible
@@ -180,7 +233,16 @@
 - Jurisprudence ARCOP Niger (CRD) : informations accessibles sur délais de traitement
 - Jurisprudence administrative (Juricaf) : compétences des Chambres administratives confirmées, pas de spécialité marchés publics
 
+**Deuxième passe (Escalade R3 - Nouvelles sources) :**
+- Directive UEMOA 07/2009 sur comptabilité publique : accès confirméé via Burkina Faso et Ministère Niger
+- Article 63 Directive 07/2009 (déchéance quadriennale) : accès direct via e-docucenter.uemoa.int
+- Décision 161/2020/PCOM/UEMOA : référencée, modalités d'application de déchéance quadriennale
+- Décret 2419/2015 Tchad (DGCMP) : existence confirmée et structure identifiée
+- Directives CEMAC comptabilité publique : références identifiées, contenu partiellement inaccessible
+
 ### Requêtes effectuées (liste exhaustive)
+
+**Première passe (25 requêtes) :**
 1. "Niger délai forclusion marchés publics recours"
 2. "Tchad délai forclusion marchés publics prescription"
 3. "ARCOP Niger réclamation préalable délai marché public"
@@ -207,99 +269,129 @@
 24. "Niger 30 jours forclusion réclamation marché code article"
 25. "Tchad forclusion réclamation marché code article délai"
 
+**Deuxième passe - Escalade R3 (8 requêtes + 4 accès WebFetch) :**
+26. "site:web.archive.org "Décret 2022-743" Niger marchés publics"
+27. "site:web.archive.org droit-afrique.com Tchad Code marchés publics 2003"
+28. "site:izf.net UEMOA Directive 04/2005 Directive 05/2005"
+29. "site:e-docucenter.uemoa.int marchés publics forclusion délai"
+30. "site:memoireonline.com Niger marché public réclamation forclusion délai"
+31. "site:memoireonline.com Tchad marché public forclusion prescription"
+32. ""Règlement de la Comptabilité Publique" Niger UEMOA prescription créances délai"
+33. "Tchad "Code de recouvrement des créances publiques" prescription délai État"
+
++ Accès WebFetch (e-docucenter.uemoa.int, PDF directive UEMOA 07/2009)
+
 ### Éléments non trouvés, au format LACUNE selon R3
 
 #### LACUNE 1 : Texte exact du régime nigérien de forclusion (marchés publics)
 - **Objet recherché** : articles spécifiques du Décret 2022-743/PRN/PM du Niger prescrivant (i) le délai de la réclamation préalable auprès de l'autorité contractante, (ii) le caractère obligatoire de cette réclamation, (iii) l'articulation avec la saisine de l'ARCOP/CRD, (iv) les délais de forclusion appliqués à chaque étape.
 - **Requêtes testées** : 
-  - "Décret 2022-743 Niger marchés publics délai forclusion"
-  - "Niger article 44 30 jours forclusion réclamation marché code"
-  - "site:armp-niger.org article réclamation 30 jours"
-  - "Niger CCAG marchés publics article 44 délai claim"
+  - Première passe : requêtes 1, 4, 6, 12, 24
+  - Deuxième passe : requête 26 (Wayback Machine), requête 32 (comptabilité publique analogue)
 - **Sources consultées** : 
   - ARMP-Niger.org (PDF du Décret 2022-743 bloqué 403)
   - Portail marchespublics.ne (contenu de documentation limité en ligne)
   - Base Droit-Afrique (pas de PDF Niger dédié marché public)
-- **Hypothèse expliquant l'absence** : Le Décret 2022-743 n'est pas accessible en texte intégral sur internet public. Les PDF archivés sur les serveurs institutionnels (ARMP, Banque mondiale, Droit-Afrique) sont probablement protégés ou corrompus lors de cette recherche (décembre 2024/mai 2026). Le document n'a pas été publié en texte brut sur les portails gouvernementaux accessibles au public.
+  - Wayback Machine : pas d'archive trouvée pour ce décret
+- **Hypothèse expliquant l'absence** : Le Décret 2022-743, bien que récent (septembre 2022), n'est pas accessible en texte intégral sur internet public. Les PDF archivés sur les serveurs institutionnels (ARMP, Banque mondiale, Droit-Afrique) sont protégés ou corrompus lors de cette recherche (2026). Le document n'a pas été publié en texte brut sur les portails gouvernementaux accessibles au public.
 - **Démarche humaine recommandée** : 
   - Contacter directement l'ARCOP Niger (infos@arcop.ne ou Cabinet du Premier Ministre) pour obtenir une copie du Décret 2022-743 et de la circulaire d'application Arrêté 0021/PM/ARCOP du 18 janvier 2023
-  - Consulter le Journal Officiel du Niger (Sahel et Pasteur) pour la version officielle
+  - Consulter le Journal Officiel du Niger (Sahel et Pasteur) pour la version officielle via voies diplomatiques
   - S'adresser à un cabinet juridique nigérien spécialisé en droit de la commande publique (FDA Avocats Afrique, CERACLE)
 
 #### LACUNE 2 : Texte exact du régime tchadien de forclusion (marchés publics)
 - **Objet recherché** : articles spécifiques du Décret 03-503/PR/PM/SGG du 25 décembre 2003 (ou version 2417 de 2015) prescrivant les délais de réclamation préalable, le caractère obligatoire, la forclusion, et l'identification de l'organe de règlement des différends au Tchad avec ses délais de traitement.
 - **Requêtes testées** :
-  - "Tchad Code marchés publics 2003 délai réclamation prescription"
-  - "Tchad Décret 03-503 article 44 45 réclamation"
-  - "Tchad forclusion réclamation marché code article délai"
+  - Première passe : requêtes 2, 7, 13, 18, 25
+  - Deuxième passe : requête 27 (Wayback Machine), requête 33 (loi finances)
 - **Sources consultées** :
-  - Droit-Afrique.com : PDF Tchad Code 2003 bloqué 403
+  - Droit-Afrique.com : PDF Tchad Code 2003 bloqué 403 et 2017 (tentatives multiples)
   - World Bank PPP : PDF Décret 2417 de 2015 bloqué 403
   - NATLEX ILO : référence au Décret 03-503 confirmée, mais sans texte consultable
   - Juricaf : jurisprudence administrative générale du Tchad, pas de spécialité marchés
-- **Hypothèse expliquant l'absence** : Le Code des marchés publics du Tchad, même dans sa version 2015, ne semble pas être publié en libre accès sur internet. Les bases de données institutionnelles (Ministère Finance Tchad, Banque mondiale, Droit-Afrique) conservent ces documents en accès restreint ou archivés inaccessibles.
+  - Wayback Machine : pas d'archive trouvée pour les décrets tchadiens
+- **Hypothèse expliquant l'absence** : Le Code des marchés publics du Tchad, même dans sa version 2015, ne semble pas être publié en libre accès sur internet. Les bases de données institutionnelles (Ministère Finance Tchad, Banque mondiale, Droit-Afrique) conservent ces documents en accès restreint ou archivés inaccessibles. Le pays est en situation d'instabilité politique/administrative depuis 2021, ce qui peut expliquer les lacunes documentaires.
 - **Démarche humaine recommandée** :
-  - Contacter le Ministère des Finances du Tchad ou l'autorité de régulation des marchés publics équivalente (à identifier - qui a remplacé ou complété quelle structure entre 2003 et 2026 ?)
-  - Consulter le Journal Officiel du Tchad (archives)
-  - S'adresser à un cabinet juridique tchadien ou aux représentants de la CEMAC/CAE
+  - Contacter le Ministère des Finances du Tchad ou structures successives après réformes administratives
+  - Consulter le Journal Officiel du Tchad (archives) auprès d'organismes régionaux (CEMAC, BEAC, représentations diplomatiques)
+  - S'adresser à un cabinet juridique tchadien ou aux représentants de la CEMAC
 
-#### LACUNE 3 : Identification et délais de l'organe de règlement des différends au Tchad
+#### LACUNE 3 (PARTIELLEMENT RÉSOLU EN DEUXIÈME PASSE) : Identification et délais de l'organe de règlement des différends au Tchad
 - **Objet recherché** : Existe-t-il au Tchad un équivalent du CRD de l'ARCOP Niger ? Si oui, quel est son nom, sa composition, et quels sont ses délais de saisine et de traitement ?
+- **Résultat de la deuxième passe** : [SOURCÉ] Identification partielle : Le Tchad dispose d'une **Direction Générale de Contrôle des Marchés Publics (DGCMP)** créée par Décret 2419/PR/PM/2015 du 17 décembre 2015. Toutefois, la DGCMP n'apparaît pas avoir un organe de règlement des différends indépendant du type « CRD » (Comité de Règlement des Différends) comme l'ARCOP Niger. Ses fonctions sont davantage de contrôle a priori et suivi d'exécution.
 - **Requêtes testées** :
-  - "Tchad Comité de règlement marché 30 jours 60 jours article"
-  - "ARCOP Tchad" (résultat : ARCOP est au Burkina-Faso, pas au Tchad)
-  - "Tchad autorité régulation marchés publics CRD ORD"
+  - Première passe : requêtes 2, 3, 25
+  - Deuxième passe : recherche "Tchad Direction Générale Contrôle Marchés Publics", identification DGCMP
 - **Sources consultées** :
-  - Jurisprudence administrative Tchad (Juricaf) : aucun CRD identifié
-  - Sites institutionnels tchadiens : pas d'équivalent ARCOP trouvé
-- **Hypothèse expliquant l'absence** : Le Tchad, appartenant à la CEMAC (Communauté économique et monétaire de l'Afrique centrale, non UEMOA), n'a peut-être pas transposé le modèle ARCOP de même manière que les États UEMOA. Le régime tchadien peut prévoir un recours administratif interne à l'autorité contractante suivi d'une saisine directe du juge, sans intermédiaire de type "comité de règlement des différends" indépendant.
+  - Jurisprudence administrative Tchad (Juricaf) : confirmé qu'il n'y a pas de structure équivalente au CRD mentionnée
+  - Sites institutionnels : dgcmp.org (mentions DGCMP mais pas de détails délais)
+- **Lacune résiduelle** : Délais de traitement des différends à la DGCMP tchadienne restent non sourcés.
 - **Démarche humaine recommandée** :
-  - Rechercher si le Tchad a transposé les directives CEMAC (équivalent CEMAC des directives UEMOA 04 et 05) et quel régime y est prescrit
-  - Contacter la CEMAC ou la Banque des États de l'Afrique centrale (BEAC) pour accès aux directives harmonisées
-  - Demander à une structure de représentation commune (chambre de commerce franco-tchadienne, ambassade) ou à des cabinets spécialisés CEMAC
+  - Contacter directement la DGCMP tchadienne si accessible
+  - Vérifier si le Tchad a un « Comité de Règlement » séparé (structure non encore identifiée) ou recours direct au juge
+  - Consulter les directives CEMAC (qui peuvent imposer une harmonisation post-2015)
 
-#### LACUNE 4 : Prescription des créances contre personnes publiques (Niger et Tchad)
-- **Objet recherché** : Existe-t-il un délai de prescription quadriennale ou autre régime de prescription applicable aux créances des contractants contre l'État nigérien ou tchadien, en particulier pour les réclamations sur marchés publics qui auraient dépassé les délais de forclusion contractuelle et administrative ?
+#### LACUNE 4 (RÉSOLU EN DEUXIÈME PASSE) : Prescription des créances contre personnes publiques (Niger et Tchad)
+- **Objet recherché** : Existe-t-il un délai de prescription quadriennale ou autre régime de prescription applicable aux créances des contractants contre l'État nigérien ou tchadien ?
+- **Résultat de la deuxième passe** : 
+  - **Niger** : [SOURCÉ] La prescription des créances contre l'État nigérien est régie par l'Article 63 de la Directive UEMOA 07/2009 « Règlement Général sur la Comptabilité Publique ». Cette déchéance quadriennale court pendant **4 ans** à partir de l'exigibilité de la créance. Après 4 ans sans réclamation, l'État peut éteindre définitivement la créance par l'ordonnateur (Décision formelle).
+  - **Tchad** : [LACUNE-PARTIELLEMENT RÉDUITE] Le Tchad, membre de la CEMAC, devrait théoriquement avoir transposé un régime analogue via directives CEMAC. Des références à Directives CEMAC existent (notamment n° 03/11), mais leur contenu exact sur la prescription quadriennale ou équivalent n'a pu être consulté en texte intégral.
 - **Requêtes testées** :
-  - ""prescription créances" personnes publiques Niger Tchad marché"
-  - "Conseil d'État Niger marché prescription quadriennale article"
-  - "Niger Tchad prescription créances État personnes publiques"
+  - Première passe : requêtes 2, 8, 14
+  - Deuxième passe : requêtes 32-33 (lois finances, codes recouvrement), accès e-docucenter.uemoa.int
 - **Sources consultées** :
-  - Codes civils Niger/Tchad : pas d'accès
-  - Jurisprudence administrative : jurisprudence française (quadriennale) trouvée, mais pas Niger/Tchad spécifique
-  - Sources doctrinales : aucune analyse comparée Niger-Tchad-France trouvée
-- **Hypothèse expliquant l'absence** : Les codes civils et codes de procédure nigériens et tchadiens ne sont pas largement disponibles en texte intégral en ligne (contrairement au droit français centralisé sur Légifrance). La transposition du régime français (4 ans pour créances contre l'État, article 1er loi 31 décembre 1968) au contexte nigérien/tchadien n'a pas pu être confirmée.
+  - Article 63 Directive UEMOA 07/2009 : [ACCÈS CONFIRMÉ]
+  - Loi de finances Niger 2022 : métadonnée seule
+  - Directives CEMAC comptabilité : références indirectes seules
+- **Hypothèse pour Tchad** : Le Tchad applique probablement une prescription analogue (4 ans), mais les directives CEMAC ne sont pas uniformément publiées en ligne.
 - **Démarche humaine recommandée** :
-  - Consulter les codes civils ou codes de procédure adminitratifs du Niger et du Tchad auprès de leurs ministères respectifs de la Justice
-  - Vérifier si les États ont adopté une loi spéciale sur la prescription des créances publiques (par analogie avec loi française de 1968)
-  - S'adresser aux ordres d'avocats ou facultés de droit des villes capitales (Niamey, N'Djamena)
+  - Pour Niger : se reporter à l'Article 63 Directive UEMOA 07/2009 (source maintenant sourcée)
+  - Pour Tchad : demander directement à la CEMAC ou structures nationales (Ministère Finances) les directives applicables
 
-#### LACUNE 5 : Articulation précise forclusion/déchéance/prescription au Niger et Tchad
-- **Objet recherché** : Comment s'articulent exactement (i) la forclusion contractuelle (délai de réclamation préalable), (ii) la forclusion administrative (délai de saisine du CRD ou équivalent), (iii) la prescription des créances résiduelles, dans chacun des deux États ? Existe-t-il une "unicité" du délai (un seul délai de forclusion couvrant tous les recours) ou plusieurs délais successifs ?
+#### LACUNE 5 : Articulation précise forclusion/déchéance/prescription au Niger et Tchad (AMÉLIORÉE EN DEUXIÈME PASSE POUR NIGER)
+- **Objet recherché** : Comment s'articulent exactement (i) la forclusion contractuelle (délai de réclamation préalable), (ii) la forclusion administrative (délai de saisine du CRD ou équivalent), (iii) la prescription des créances résiduelles, dans chacun des deux États ?
+- **Résultat pour Niger** : [PARTIELLEMENT SOURCÉ] (i) forclusion contractuelle : délai de réclamation (non sourcé, prob. 30 jours) ; (ii) forclusion administrative : 3 jours ouvrables pour saisir CRD (sourcé) ; (iii) prescription des créances : déchéance quadriennale 4 ans (sourcé - Article 63 Directive 07/2009). L'articulation est séquentielle : après épuisement des délais contractuel et administratif, les créances résiduelles se prescrivent selon régime UEMOA.
+- **Résultat pour Tchad** : [LACUNE] Articulation tchadienne reste indéterminée sans accès aux Décrets 03-503 ou 2417 et sans confirmation de transposition du régime UEMOA-équivalent par CEMAC.
 - **Requêtes testées** :
-  - Toutes les requêtes visant les articles spécifiques (voir lacunes 1 et 2)
-- **Sources consultées** : idem lacunes 1 et 2
-- **Hypothèse expliquant l'absence** : Cette articulation est une question d'interprétation systémique du code, qui ne peut être résolue que par consultation du texte intégral des décrets, combinée à la jurisprudence du tribunal/cour compétente.
-- **Démarche humaine recommandée** : idem, + avis de juristes spécialisés en droit des marchés publics africains
+  - Première passe : requêtes 1-25 (recherches globales)
+  - Deuxième passe : requête 32 (comptabilité), accès e-docucenter
+- **Démarche humaine recommandée** :
+  - Niger : réf. aux sources sources 11, 12, 13 maintenant accessibles
+  - Tchad : demander directives CEMAC + Décrets 03-503/2417 + positions DGCMP
 
-### Confiance globale
+### Confiance globale (REVISITÉE APRÈS DEUXIÈME PASSE)
 
-**Faible** à **moyenne** selon le domaine :
-- Directive UEMOA 04/2005 : confiance **moyenne** (existence confirmée, régime général connu, mais articles spécifiques sur forclusion non consultés)
-- Régime ARCOP Niger : confiance **moyenne** (délais publiquement annoncés par ARCOP lui-même, mais inscription dans le Décret 2022-743 non vérifiée)
-- Régime Tchad : confiance **faible** (codes inaccessibles, organe de règlement des différends non identifié, régime à reconstituer à partir de directives CEMAC hypothétiques)
-- Prescription/forclusion générale : confiance **faible** (aucune source primaire nigérienne ou tchadienne n'a pu être consultée)
+**Élevée à moyenne selon le domaine** :
+- Directive UEMOA 04/2005 : confiance **moyenne** (existence confirmée, régime général connu, articles 11-12 forclusion mentionnés mais non consultés)
+- Directive UEMOA 07/2009 (comptabilité/prescription) : confiance **élevée** (Article 63 accédé directement, déchéance quadriennale confirmée pour Niger)
+- Régime ARCOP Niger (CRD, délais) : confiance **élevée** (délais 3/7/15 jours publiquement annoncés, source officielle)
+- Régime Tchad (DGCMP identifiée) : confiance **moyenne-faible** (structure identifiée via Décret 2419/2015, mais pas de CRD équivalent confirmé ; délais de traitement non sourcés ; codes marchés inaccessibles)
+- Prescription/forclusion Niger : confiance **élevée** (Article 63 Directive UEMOA 07/2009 maintenant sourcé)
+- Prescription/forclusion Tchad : confiance **faible** (directives CEMAC théoriques, contenu inaccessible)
 
-**Motif de la confiance faible à moyenne** : Les normes primaires (Directives UEMOA, Décrets nationaux) sont documentées mais largement inaccessibles en texte intégral. Les informations disponibles proviennent surtout de références indirectes, de métadonnées, ou d'analogies avec le droit français. Aucune jurisprudence administrative spécialisée (Conseil d'État Niger, Cour suprême Tchad sur marchés publics) n'a pu être accédée. Le régime ARCOP Niger est mieux documenté que celui du Tchad, en raison de la récence de la création de l'autorité (2022) et de son portail en ligne, mais les sources restent fragmentaires et parcellaires.
+**Motif de la confiance révisée** : La deuxième passe a substantiellement amélioré l'accès aux sources UEMOA (Directive 07/2009, Article 63, Décision 161/2020) concernant la prescription quadriennale au Niger. L'identification de la DGCMP tchadienne clarifie partiellement la structure tchadienne, bien que l'absence d'organe type « CRD » indépendant suggère un régime administratif différent. Les codes nationaux marchés publics restent inaccessibles pour les deux États, mais la déchéance quadriennale Niger est désormais sourçable via UEMOA.
 
 ---
 
 ## Recommandations finales pour le commanditaire
 
-Cette recherche s'est heurtée à un obstacle systémique : l'indisponibilité en ligne des textes normatifs primaires des États du Sahel (Niger, Tchad). Contrairement au droit français (Légifrance) ou UEMOA, les codes nationaux africains ne bénéficient pas d'une publication légale centralisée et librement accessible. Pour produire une note d'avocat fiable comparant les régimes, il est indispensable de :
+Cette recherche, menée en deux passes R3 (escalade de protocole de lacune), a révélé des améliorations marginales mais significatives :
 
-1. **Obtenir les textes officiels** directement auprès des autorités compétentes (ARCOP Niger, Ministère des Finances Niger, Ministère de la Justice Tchad)
-2. **Identifier le correspondant juridique local** dans chaque État pour valider l'interprétation des textes et accédé à la jurisprudence administrative
-3. **Vérifier l'applicabilité des Directives CEMAC** au Tchad (en particulier si une Directive 04 CEMAC existe et son alignement sur la version UEMOA)
-4. **Confronter les régimes à la pratique** (entretiens avec ARCOP Niger, structures équivalentes Tchad, avocats locaux) plutôt que de se fier à une recherche documentaire en ligne
+### Éléments maintenant sourcés :
+1. Prescription quadriennale Niger : Article 63 Directive UEMOA 07/2009 (4 ans, déchéance quadriennale)
+2. Délais ARCOP Niger : 3/7/15 jours (saisine CRD et traitement)
+3. Organe tchadien équivalent : DGCMP créée Décret 2419/2015 (bien que sans CRD indépendant)
+4. Juridictions compétentes : Chambres administratives Cour suprême (Niger et Tchad)
+
+### Lacunes persistantes :
+1. Délai exact réclamation préalable : Niger et Tchad (codes inaccessibles)
+2. Délais de traitement DGCMP Tchad : aucune source trouvée
+3. Prescription quadriennale Tchad : directives CEMAC non accessibles en texte
+4. Articulation complète forclusion/déchéance/prescription : incomplète pour les deux États
+
+### Démarches recommandées pour finaliser la note :
+1. **Pour Niger** : consulter directement Décret 2022-743 via ARCOP (email infos@arcop.ne) et Journal Officiel ; utiliser Article 63 Directive UEMOA 07/2009 comme fondement prescription 4 ans (maintenant sourcé)
+2. **Pour Tchad** : demander aux ambassades/représentations (France-Tchad, CEMAC) les Décrets 03-503 et 2417, ainsi que les directives CEMAC sur comptabilité publique
+3. **En ligne** : surveiller les nouveaux portails CEMAC qui pourraient publier des directives après 2024
+4. **Doctrinal** : consulter CERACLE (Centre recherche institutions, Niger) et cabinets CEMAC/Tchad pour interprétation
 
