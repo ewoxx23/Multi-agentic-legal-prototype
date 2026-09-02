@@ -106,17 +106,49 @@
 - Contenu utile, reformulé sans citation longue (3 phrases max) : Base de données NATLEX (Organisation Internationale du Travail) confirme l'existence du Décret 03-503 Tchad du 25/12/2003 portant Code des marchés publics. Accès au texte intégral bloqué. Référentiel fiable pour confirmer l'existence des textes, non l'accès au contenu.
 - Pertinence : indirecte (confirmation d'existence)
 
+### Source 13
+- Nature : Acte réglementaire primaire (UEMOA comptabilité publique)
+- Référence exacte : Article 49 de la Directive n° 06/97/CM/UEMOA portant règlement général sur la comptabilité publique — « Constatation, liquidation et émission de titres »
+- État / juridiction / émetteur : UEMOA (Conseil des Ministres UEMOA ; applicable Niger, Tchad si signifiée)
+- URL consultée : https://e-docucenter.uemoa.int/fr/article-49-constatation-liquidation-et-emission-de-titres
+- Vérification : texte lu intégralement
+- Contenu utile, reformulé sans citation longue (3 phrases max) : L'Article 49 définit le processus comptable en trois étapes pour les revenus : (i) constatation : le comptable vérifie l'obligation du débiteur, la réalité et l'exigibilité de la dette ; (ii) liquidation : détermination du montant exact de la créance de l'État ; (iii) titre de recette : émission du document officiel. Cet article confirme que "liquidation" en comptabilité publique UEMOA signifie quantifier le montant exact de la créance, phase distincte de constatation et de titre.
+- Pertinence : directe (définition comptable primaire de "liquidation" au sens UEMOA)
+
+### Source 14
+- Nature : Acte réglementaire primaire (UEMOA comptabilité publique)
+- Référence exacte : Article 53 de la Directive n° 06/97/CM/UEMOA portant règlement général sur la comptabilité publique — « Opérations d'exécution des dépenses »
+- État / juridiction / émetteur : UEMOA (Conseil des Ministres UEMOA ; applicable Niger, Tchad si signifiée)
+- URL consultée : https://e-docucenter.uemoa.int/fr/article-53-operations-dexecution-des-depenses
+- Vérification : texte lu intégralement
+- Contenu utile, reformulé sans citation longue (3 phrases max) : L'Article 53 énumère les quatre opérations séquentielles d'exécution des dépenses publiques : (i) engagement (commitment), (ii) liquidation (determination of amounts owed / vérifier réalité et montant), (iii) ordonnancement (authorization of payment), (iv) paiement (actual transfer). Cet article affirme que "liquidation" est une phase comptable obligatoire, intermédiaire, pour toute dépense publique y compris marchés publics. Chaque phase a son instrument administratif propre.
+- Pertinence : directe (régime obligatoire des 4 phases appliquées aux marchés Niger/Tchad)
+
+### Source 15
+- Nature : Note juridique de cabinet
+- Référence exacte : « Niger – Nouveau code des marchés publics » | CMS Law
+- État / juridiction / émetteur : France (cabinet CMS, section droit des marchés publics)
+- URL consultée : https://cms.law/fr/fra/legal-updates/Niger-Nouveau-code-des-marches-publics2
+- Vérification : métadonnée seule (source accessible, contenu substantif non consulté en détail)
+- Contenu utile, reformulé sans citation longue (3 phrases max) : CMS Law publie une note juridique sur la réforme du Code des marchés publics du Niger (Décret 2022-743). Note pratique destinée aux praticiens, elle reconnaît l'existence et l'application du nouveau Code. Peut contenir des explications utiles sur les procédures, bien que la vérification n'ait pas pu accéder au contenu complet.
+- Pertinence : indirecte (confirmation de l'existence du Décret 2022-743 par source de conseil)
+
 ---
 
-## Bilan
+## Bilan mis à jour (après deuxième passe)
 
 ### Sources primaires
-- Nombre de sources consultées : 12
-- Nombre de sources primaires accessibles (texte lu) : 2 (Source 5, Source 6)
+- Nombre total de sources documentées : 15
+- Nombre de sources consultées (texte lu intégralement ou partiellement) : 4 (Source 5, Source 6, Source 13, Source 14)
 - Nombre de sources primaires existantes mais inaccessibles : 3 (Source 1, Source 2, Source 3)
-- Nombre de sources de contexte/comparaison : 7
+- Nombre de sources de contexte/comparaison/synthèse : 8
 
-### Requêtes effectuées (liste exhaustive)
+### Nouvelles sources trouvées en deuxième passe
+- Source 13 : Article 49 UEMOA (liquidation = quantifier montant créance)
+- Source 14 : Article 53 UEMOA (4 phases obligatoires : engagement, liquidation, ordonnancement, paiement)
+- Source 15 : Note CMS Law sur Décret Niger 2022-743
+
+### Requêtes effectuées — Première passe (18 requêtes)
 1. "décompte de liquidation Niger marché public"
 2. "décompte liquidation Tchad Code marchés publics CCAG"
 3. "Directive UEMOA 04/2005 décompte liquidation"
@@ -136,113 +168,180 @@
 17. "Tchad jurisprudence administrative marché public liquidation dépense réception"
 18. Tentatives d'accès PDF multiples (droit-afrique.com, NATLEX, FAO Lex, dgcmef.gov.bf, dge.gouv.ci, finances.gouv.tg, armp.cm)
 
-### Éléments non trouvés (LACUNES)
+### Requêtes effectuées — Deuxième passe (12 requêtes supplémentaires)
+19. site:web.archive.org droit-afrique.com Décret 2022-743 Niger Code marchés publics
+20. site:web.archive.org droit-afrique.com Tchad Décret 03-503 Code marchés publics
+21. site:web.archive.org Directive UEMOA 04/2005 passation exécution marchés publics
+22. izf.net Directive UEMOA 04/2005 marchés publics
+23. izf.net Décret Niger 2022-743 Code marchés publics
+24. Directive UEMOA 04/2005 marchés publics (via Yumpu/izf)
+25. site:uemoa.int Directive 04/2005 décompte marchés publics
+26. site:e-docucenter.uemoa.int Directive 04 2005 décompte liquidation
+27. site:memoireonline.com Niger "décompte général" "marché public" articles
+28. site:memoireonline.com Tchad "décompte" "marché public" code
+29. memoireonline.com "code des marchés publics" Niger Tchad décompte liquidation
+30. sgg.gouv.ne Journal Officiel Niger Code marchés publics Décret 2022-743
+(+ tentatives d'accès directs E-DOCUCENTER UEMOA Article 49 et 53, Yumpu, World Bank PPP, Scribd)
 
-#### LACUNE A : Terminologie — Utilisation de « décompte de liquidation » au Niger
-- **Objet recherché** : Établir si l'expression "décompte de liquidation" figure dans le Décret Niger 2022-743, ou si la terminologie officielle est "décompte général et définitif" ou autre
-- **Requêtes testées** : #1, #2, #6, #12, #14
-- **Sources testées** : ARMP Niger (PDF inaccessible 404), droit-afrique.com (403), sites officiels Niger
-- **Hypothèse explicative** : (i) Texte intégral Décret 2022-743 non numérisé ou accessible publiquement via canaux gratuits ; (ii) terminologie nigérienne peut reproduire celle de la Directive UEMOA 04/2005 (termes "liquidation/décompte" à vérifier dans la directive elle-même, inaccessible) ; (iii) documents intégraux disponibles uniquement via ARMP/ministère directement ou via sources payantes
-- **Démarche humaine recommandée** : Contacter ARCOP Niger (infos@arcop.ne, +227 20 72 35 00) ou ARMP pour accès au Décret 2022-743 complet ; consulter Portail des Marchés Publics Niger (marchespublics.ne) pour circulaires ou guides interprétatifs
-- **Pertinence de la lacune** : critique (question terminologique centrale)
+### Éléments définitivement non trouvés (LACUNES — ESCALADE R3 COMPLÉTÉE)
 
-#### LACUNE B : Mécanisme au Niger — Procédure d'établissement et de notification du décompte/liquidation
-- **Objet recherché** : (i) Qui établit le décompte de liquidation (acheteur ou titulaire) ? (ii) Dans quel délai ? (iii) Comment est-il notifié ? (iv) À quelles conditions devient-il définitif ? (v) Quels recours contre un décompte définitif ?
-- **Requêtes testées** : #1, #5, #6, #11, #12
-- **Sources testées** : Décret 2022-743 (inaccessible), ARCOP guides (non localisés), jurisprudence administrative Niger (non trouvée)
-- **Hypothèse explicative** : (i) Procédures détaillées probablement dans les CCAG Niger (cahiers des clauses administratives générales) annexés au Décret 2022-743, ou dans circulaires ARCOP non publiquement accessibles en ligne ; (ii) jurisprudence administrative nigérienne inexistante ou non numérisée
-- **Démarche humaine recommandée** : Contacter ARCOP Niger pour accès aux CCAG applicables ; consulter auprès de ministères (Finances, Équipement) pour circulaires administratives d'application ; interview de praticiens ayant exécuté des marchés publics au Niger
-- **Pertinence de la lacune** : critique (question mécanique centrale)
+#### LACUNE A : Terminologie officiellement utilisée au Niger (« décompte de liquidation » vs « DGD » vs autre)
+- **Objet recherché** : Confirmer si Décret 2022-743 Niger utilise les termes "décompte de liquidation", "décompte général et définitif", "décompte de résiliation" ou autre
+- **Requêtes testées** : #1, #2, #6, #12, #19, #22, #23, #30
+- **Sources testées** : 
+  - Première passe : Décret 2022-743 PDF (404), droit-afrique.com (403), ARMP site, FAO Lex (inaccessible)
+  - Deuxième passe : Wayback Machine (aucun résultat via Google search), sgg.gouv.ne JO (pas trouvé), memoireonline (pas de contenu cible), CMS Law note (contenu limité)
+- **Hypothèse explicative** : Décret 2022-743 non numérisé librement ; CCAG annex (documents de procédure réels) non publiés en ligne ; terminologie peut être spécifique à Niger ou reprendre Directive UEMOA 04/2005 (elle-même inaccessible)
+- **Démarche humaine recommandée** : Contact direct ARCOP Niger (infos@arcop.ne, +227 20 72 35 00) pour obtenir texte complet Décret 2022-743 et CCAG ; consultation Journal Officiel du Niger version papier ou archives physiques (Présidence du Niger, SGG) ; enquête auprès de cabinets d'avocats pratiquant la commande publique au Niger (confirmé absence de publications libres)
+- **Pertinence de la lacune** : CRITIQUE (question terminologique centrale non résolue)
 
-#### LACUNE C : Mécanisme au Tchad — Procédure d'établissement et de notification du décompte/liquidation
-- **Objet recherché** : (i) Qui établit le décompte de liquidation/décompte général (acheteur ou titulaire) ? (ii) Dans quel délai ? (iii) Comment est-il notifié ? (iv) À quelles conditions devient-il définitif ? (v) Quels recours/forclusions s'appliquent ?
-- **Requêtes testées** : #2, #3, #8, #9, #13, #17
-- **Sources testées** : Décret 03-503/PR/PM/SGG Tchad (inaccessible via droit-afrique.com 403, NATLEX 403), jurisprudence administrative Tchad (non trouvée)
-- **Hypothèse explicative** : (i) Texte intégral Décret 03-503 non numérisé gratuitement ; (ii) CCAG institués par le décret probablement annexés, non librement accessibles ; (iii) jurisprudence administrative tchadienne inexistante ou non indexée publiquement
-- **Démarche humaine recommandée** : Contact Ministère des Finances du Tchad (finances.gouv.td) pour accès au décret et CCAG ; enquête auprès de Direction des Marchés Publics du Tchad ; consultation de praticiens locaux (cabinets juridiques Ndjamena)
-- **Pertinence de la lacune** : critique (question mécanique centrale)
+#### LACUNE B : Mécanisme d'établissement et de notification du décompte au Niger
+- **Objet recherché** : (i) Qui établit (acheteur/préfet ou titulaire) ? (ii) Délai maximal ? (iii) Comment notifié ? (iv) Delai de contestation/recours ? (v) Conditions d'effectivité/forclusion ?
+- **Requêtes testées** : #1, #5, #11, #12, #19, #23, #30
+- **Sources testées** : Décret 2022-743 (inaccessible), CCAG Niger (inaccessibles), ARCOP guides (non trouvés publiquement), Portail Marchés Publics Niger (documentation vague)
+- **Hypothèse explicative** : Procédures détaillées relèvent des CCAG (cahiers spécifiques par type de marché), documents de procédure interne ARCOP non publiés publiquement
+- **Démarche humaine recommandée** : Même que LACUNE A ; ajout : consultation dossiers d'appels d'offres récents (modèles de contrats, clauses de décompte) ; entretiens avec entreprises ayant exécuté marchés publics au Niger
+- **Pertinence de la lacune** : CRITIQUE (question mécanique centrale)
 
-#### LACUNE D : Directive UEMOA 04/2005 — Articles spécifiques sur décompte, liquidation et clôture du marché
-- **Objet recherché** : Localiser et consulter les articles de la Directive 04/2005 qui règlent : (i) définition du décompte/liquidation (terminologie exacte) ; (ii) procédure d'établissement ; (iii) délais ; (iv) notification ; (v) caractère définitif
-- **Requêtes testées** : #3, #9, #14
-- **Sources testées** : droit-afrique.com (403), dgcmef.gov.bf (PDF non lisible), dge.gouv.ci (503), vie-publique.sn (métadonnées seules)
-- **Hypothèse explicative** : (i) Directive 04/2005 est texte harmonisé UEMOA ; (ii) copies gouvernementales existent (Burkina, Côte d'Ivoire) mais inaccessibles ou en format non exploitable (PDF compressé) ; (iii) texte intégral non publié en texte lisible
-- **Démarche humaine recommandée** : Accès direct site UEMOA (uemoa.int) via commission UEMOA ou secrétariat ; demande auprès des autorités de régulation nationales (ARCOP Niger, ARMP Cameroun) qui reçoivent les textes UEMOA ; consultation des jurisprudences nationales interprétant la directive
-- **Pertinence de la lacune** : critique (source régulatrice primaire, applicable Niger ET Tchad si CEMAC a directive équivalente)
+#### LACUNE C : Terminologie officiellement utilisée au Tchad
+- **Objet recherché** : Confirmer si Décret 03-503 Tchad utilise "décompte de liquidation", "DGD", "décompte de résiliation" ou autre
+- **Requêtes testées** : #2, #3, #13, #20
+- **Sources testées** : 
+  - Première passe : droit-afrique.com (403), NATLEX (403), FAO Lex compressé
+  - Deuxième passe : Wayback Machine (aucun résultat), memoireonline (aucun résultat cible), Scribd (non accessible)
+- **Hypothèse explicative** : Décret 03-503/2003 (23 ans) probablement peu numérisé ; Tchad peut avoir décret plus récent (ex. Decree 2417-2015 mentionné en passe 2, World Bank PPP inaccessible 403) non confirmé
+- **Démarche humaine recommandée** : Contact Ministère des Finances Tchad (finances.gouv.td) et Secrétariat Général du Gouvernement tchadien pour texte complet Décret 03-503 et décrets ultérieurs ; recherche auprès de cabinets juridiques N'Djaména
+- **Pertinence de la lacune** : CRITIQUE (question terminologique pour Tchad)
 
-#### LACUNE E : Régime de comptabilité publique (liquidation, ordonnancement, paiement) au Niger
-- **Objet recherché** : Consulter le Règlement général de comptabilité publique Niger pour comprendre : (i) définition légale de la phase "liquidation" ; (ii) son articulation avec le marché public ; (iii) articulation avec engagement/ordonnancement/paiement ; (iv) acteurs (ordonnateur, comptable, prestataire)
-- **Requêtes testées** : #4, #6, #8
-- **Sources testées** : Décret 2002-196 PRN/MF/E du 26/07/2002 (cité mais non accédé), FAO Lex (compressé inaccessible), documents PEFA (métadonnées seules)
-- **Hypothèse explicative** : (i) Décrets de comptabilité publique nigérienne probablement disponibles seulement auprès du Ministère des Finances Niger ; (ii) non numérisés sur sources publiques libres
-- **Démarche humaine recommandée** : Contacter Ministère des Finances Niger (finances.gouv.ne) pour Décret 2002-196 et modifications ultérieures ; consulter Inspection Générale des Finances Niger
-- **Pertinence de la lacune** : moyenne (comprendre lien entre liquidation du marché et liquidation comptable)
+#### LACUNE D : Mécanisme d'établissement et de notification du décompte au Tchad
+- **Objet recherché** : (i) Qui établit ? (ii) Délai ? (iii) Notification ? (iv) Recours ? (v) Effectivité ?
+- **Requêtes testées** : #2, #3, #8, #9, #13, #17, #20
+- **Sources testées** : Décret 03-503 (inaccessible), CCAG Tchad (inaccessibles), jurisprudence administrative Tchad (non trouvée/pas développée)
+- **Hypothèse explicative** : Même que LACUNE B pour Niger, avec élément additionnel : Tchad (CEMAC) peut suivre régime différent d'UEMOA (Niger) en matière de directive harmonisée si Directive CEMAC différente ou applicable
+- **Démarche humaine recommandée** : Même que LACUNE C ; vérifier aussi si Directive CEMAC analogue à UEMOA 04/2005 existe et est applicable
+- **Pertinence de la lacune** : CRITIQUE
 
-#### LACUNE F : CCAG Niger complets
-- **Objet recherché** : Cahiers des clauses administratives générales applicables au Niger (sous Décret 2022-743), notamment articles sur : décompte, liquidation, clôture du marché, délais, notification, caractère définitif
-- **Requêtes testées** : #1, #5, #12
-- **Sources testées** : droit-afrique.com (403), ARMP Niger (404), sites officiels Niger
-- **Hypothèse explicative** : CCAG probablement annexés au Décret 2022-743 mais non publiquement diffusés en ligne ; disponibles auprès d'ARCOP ou via appels d'offres
-- **Démarche humaine recommandée** : Télécharger auprès d'ARCOP Niger (infos@arcop.ne) ou consulter dossiers d'appel d'offres publié sur Portail Marchés Publics Niger
-- **Pertinence de la lacune** : critique (documents cités mais inaccessibles)
+#### LACUNE E : Directive UEMOA 04/2005 — Articles spécifiques sur décompte/liquidation marchés publics
+- **Objet recherché** : Localiser articles Directive UEMOA 04/2005 régissant : (i) définition décompte/liquidation (terminologie) ; (ii) procédure établissement ; (iii) délais ; (iv) notification ; (v) effectivité/recours
+- **Requêtes testées** : #3, #9, #14, #21, #24, #25, #26
+- **Sources testées** : 
+  - Première passe : droit-afrique.com (403), dgcmef.gov.bf (PDF compressé), dge.gouv.ci (503), vie-publique.sn (métadonnées)
+  - Deuxième passe : Wayback Machine (aucun), E-DOCUCENTER UEMOA direct (recherche : Directive 04/2005 inaccessible, trouvé Articles 49 et 53 de Directive 06/97 comptabilité publique seulement), Yumpu (403)
+- **Hypothèse explicative** : Directive 04/2005 texte harmonisé, copies gouvernementales existent mais PDFs inaccessibles ou compressés ; document commun à 8 États UEMOA (Sénégal, Mali, Burkina Faso, Côte d'Ivoire, Bénin, Togo, Niger, Guinée-Bissau) — peut être en accès restreint/payant via organismes officiels
+- **Démarche humaine recommandée** : (i) Commande directe UEMOA Commission (Ouagadougou) ; (ii) demande via ministères nationaux (Finances Niger/Tchad) comme États membres ; (iii) abonnement à base juridique WIPO Lex ou LEGIBUS si disponible ; (iv) consultation autorités nationales régulation (ARCOP Niger, etc.) qui reçoivent directive en application
+- **Pertinence de la lacune** : CRITIQUE (source régulatrice primaire harmonisée)
 
-#### LACUNE G : CCAG Tchad complets
-- **Objet recherché** : Cahiers des clauses administratives générales institués par Décret 03-503 Tchad, notamment articles sur décompte, liquidation, clôture, délais, notification, caractère définitif
-- **Requêtes testées** : #2, #3, #13
-- **Sources testées** : droit-afrique.com (403), NATLEX (403)
-- **Hypothèse explicative** : CCAG Tchad probablement inclus dans le Décret 03-503 (comme complément) mais non dissociés/numérisés librement
-- **Démarche humaine recommandée** : Contacter Ministère des Finances Tchad (finances.gouv.td) ; rechercher auprès d'autorités de régulation CEMAC si directive équivalente à UEMOA 04/2005 existe
-- **Pertinence de la lacune** : critique
+#### LACUNE F : Articulation entre "liquidation" au sens comptable (4 phases) et "décompte de liquidation" au sens marché
+- **Objet recherché** : Clarifier si "décompte de liquidation" marché = application phase comptable "liquidation" (vérifier/quantifier) au contexte du marché, OU si s'agit d'autre chose
+- **Requêtes testées** : #3, #4, #7, #8, #10, #11, #26
+- **Sources trouvées** : 
+  - Article 49 et 53 UEMOA confirment 4 phases dont "liquidation" (phase de quantification)
+  - Sources françaises confirment "décompte de liquidation" résilié ≠ DGD exécution normal
+  - Aucune source Tchad/Niger n'articule explicitement ces deux sens
+- **Hypothèse explicative** : Conceptuellement, "décompte de liquidation" marché peut combiner : (a) phase comptable "liquidation" (vérifier/quantifier) + (b) document procédural "décompte" (récapitulation) ; articulation probable mais non textuelle dans sources Niger/Tchad trouvées
+- **Démarche humaine recommandée** : Interview praticiens/ordonnateurs publics Niger/Tchad ayant traité clôture/réception marchés ; demande auprès ARCOP/Direction Marchés Publics Tchad pour guides interprétatifs internes
+- **Pertinence de la lacune** : MOYENNE (conceptuel, résoluble par interview de praticiens)
 
-#### LACUNE H : Jurisprudence administrative Niger sur décompte/liquidation marchés publics
-- **Objet recherché** : Décisions du Conseil d'État Niger (ou organe équivalent) clarifiant : procédures de décompte, conditions d'effectivité, délais, recours, interprétation des CCAG
-- **Requêtes testées** : #16
-- **Sources testées** : recherches génériques (résultats : jurisprudence française, non nigérienne)
-- **Hypothèse explicative** : Jurisprudence administrative nigérienne probablement inexistante ou très peu développée sur ce sujet ; litiges généralement réglés administrativement ou via arbitrage
-- **Démarche humaine recommandée** : Contacter Conseil d'État Niger ou conseillers juridiques ministériels ; enquête auprès de cabinets d'avocats Niamey
-- **Pertinence de la lacune** : faible (jurisprudence probablement peu développée en droit public africain sur cette question procédurale)
+#### LACUNE G : CCAG Niger complets
+- **Objet recherché** : Cahiers des clauses administratives générales Niger (annexes ou incorporés Décret 2022-743) régissant procédures décompte/liquidation
+- **Requêtes testées** : #1, #5, #12, #19, #30
+- **Sources testées** : ARMP site (PDF 404), droit-afrique.com (403), Portail Marchés Publics Niger documentation (vague)
+- **Hypothèse explicative** : CCAG sont documents de procédure détaillée, probablement annexés au Décret 2022-743, distribués via ARCOP et utilisés dans dossiers d'appels d'offres, peu susceptibles d'être publiés en ligne gratuitement
+- **Démarche humaine recommandée** : Téléchargement direct ARCOP ou via Portail (marchespublics.ne) en consultant dossiers d'appels d'offres actifs ; demande écrite ARCOP
+- **Pertinence de la lacune** : CRITIQUE (documents cités, documents procédure détaillée)
 
-#### LACUNE I : Jurisprudence administrative Tchad sur décompte/liquidation marchés publics
-- **Objet recherché** : Décisions de la Cour administrative Tchad (ou organe équivalent) sur procédures décompte/liquidation marchés
-- **Requêtes testées** : #17
-- **Sources testées** : recherches génériques (aucun résultat spécifique Tchad)
-- **Hypothèse explicative** : Même que LACUNE H
-- **Démarche humaine recommandée** : Même que LACUNE H
-- **Pertinence de la lacune** : faible
+#### LACUNE H : CCAG Tchad complets
+- **Objet recherché** : CCAG institués par Décret 03-503 Tchad régissant procédures décompte/liquidation
+- **Requêtes testées** : #2, #3, #13, #20
+- **Sources testées** : Même que LACUNE G, adapté Tchad
+- **Hypothèse explicative** : Même que LACUNE G
+- **Démarche humaine recommandée** : Contact Ministère des Finances Tchad ; recherche dans dossiers marchés publics
+- **Pertinence de la lacune** : CRITIQUE
 
-#### LACUNE J : Manuels ou guides pratiques ARCOP Niger et ARMP (ancien nom) / Direction Marchés Publics Tchad sur procédures décompte/liquidation
-- **Objet recherché** : Documents de procédure ou guides interprétatifs publiés par régulateurs, explicitant mécanismes décompte, liquidation, forclusion, recours
-- **Requêtes testées** : #5, #11
-- **Sources testées** : sites ARCOP (arcop.ne), ARMP (armp-niger.org), Portail Marchés Publics Niger (marchespublics.ne)
-- **Hypothèse explicative** : Guides probablement existants mais non indexés sur moteurs de recherche généralistes ; disponibles directement auprès des régulateurs
-- **Démarche humaine recommandée** : Demande directe ARCOP (infos@arcop.ne) et ARMP des manuels de procédure, circulaires, guides applicables
-- **Pertinence de la lacune** : moyenne-élevée (guides de régulateur seraient très pertinents)
+#### LACUNE I : Règlement général de comptabilité publique Niger (complet)
+- **Objet recherché** : Décret 2002-196 PRN/MF/E 26/07/2002 (ou versions ultérieures modifiant celui-ci) — articulation 4 phases, définitions, responsabilités
+- **Requêtes testées** : #4, #7, #8
+- **Sources testées** : FAO Lex (compressé), PEFA (synthèse), LinkedIn article (synthèse)
+- **Hypothèse explicative** : Texte probablement disponible auprès Ministère Finances Niger, peu numérisé librement
+- **Démarche humaine recommandée** : Ministère des Finances Niger (finances.gouv.ne)
+- **Pertinence de la lacune** : MOYENNE (contexte comptable général)
+
+#### LACUNE J : Règlement général de comptabilité publique Tchad (complet)
+- **Objet recherché** : Équivalent tchadien des règles de comptabilité publique (4 phases, définitions)
+- **Requêtes testées** : #8, #17, #24
+- **Sources testées** : Même recherche que LACUNE I, Tchad ; finances.gouv.tg site (pas contenu substantiel)
+- **Hypothèse explicative** : Même que LACUNE I
+- **Démarche humaine recommandée** : Ministère des Finances Tchad
+- **Pertinence de la lacune** : MOYENNE
+
+#### LACUNE K : Jurisprudence administrative Niger (décompte/liquidation marchés)
+- **Objet recherché** : Décisions Conseil d'État Niger ou Cour administrative clarifiant procédures décompte, délais, recours, intangibilité
+- **Requêtes testées** : #16, #26
+- **Sources testées** : Recherches génériques (résultats : jurisprudence française seulement)
+- **Hypothèse explicative** : Jurisprudence administrative Niger probablement peu développée ou non indexée publiquement ; contentieux marchés publics réglé administrativement ou via arbitrage (CCJA OHADA) plutôt qu'administratif
+- **Démarche humaine recommandée** : Contact Conseil d'État Niger ou Cour Suprême Niger sections administrative/administrative ; recherche auprès de cabinets litigieux
+- **Pertinence de la lacune** : FAIBLE (jurisprudence administrative africaine sur ce point probablement peu fournie)
+
+#### LACUNE L : Jurisprudence administrative Tchad (décompte/liquidation marchés)
+- **Objet recherché** : Équivalent Tchad
+- **Requêtes testées** : #17, #26
+- **Sources testées** : Même que LACUNE K
+- **Hypothèse explicative** : Même que LACUNE K
+- **Démarche humaine recommandée** : Même que LACUNE K pour Tchad
+- **Pertinence de la lacune** : FAIBLE
+
+#### LACUNE M : Manuels/guides pratiques ARCOP Niger et Direction Marchés Publics Tchad
+- **Objet recherché** : Documents de procédure régulateurs explicitant mécanismes décompte/liquidation, délais, forclusions
+- **Requêtes testées** : #5, #11, #19, #27, #28, #29
+- **Sources testées** : Sites ARCOP, ARMP, Portail Marchés Publics Niger (documentation vague), memoireonline (aucun résultat)
+- **Hypothèse explicative** : Guides régulateurs probablement existants mais non indexés web librement ; distribution interne/par demande
+- **Démarche humaine recommandée** : Demande écrite directe ARCOP (infos@arcop.ne) et Direction Marchés Publics Tchad
+- **Pertinence de la lacune** : MOYENNE-ÉLEVÉE (guides seraient très pertinents)
 
 ---
 
-## Synthèse de la réponse à la question terminologique centrale (Q4)
+## Synthèse finale : Réponse à la question terminologique Q4
 
-**Question posée :** Trancher entre trois lectures de "décompte de liquidation" :
-(i) synonyme approximatif du décompte général et définitif (DGD) français
-(ii) terminologie propre à un ou plusieurs codes nationaux OHADA/UEMOA
-(iii) liquidation au sens de la comptabilité publique (phase distincte)
+**Question posée :** Trancher entre trois lectures de "décompte de liquidation" : (i) synonyme DGD français ; (ii) terminologie propre Niger/Tchad ; (iii) liquidation au sens comptabilité publique (phase distincte).
 
-**Éléments établis [SOURCÉ] :**
+### Éléments établis [SOURCÉ]
 
-1. **En France, évolution terminologique** : "Décompte de liquidation" était l'ancien terme, remplacé par "décompte de résiliation" dans les CCAG 2021 (Source 6 — WEKA). Il s'agit d'un même concept : règlement des comptes d'un marché résilié, listant créances et débits du titulaire.
+1. **Lecture (iii) — Liquidation comptable = phase vérification/quantification (Source 13, Source 14, Source 11)**
+   - Article 49 UEMOA définit "liquidation" revenus : déterminer montant exact créance
+   - Article 53 UEMOA énumère 4 phases obligatoires dépenses : engagement → liquidation (déterminer montants dus) → ordonnancement → paiement
+   - Cette phase s'applique à toute dépense publique, y compris marchés publics
+   - [SOURCÉ]
 
-2. **Lecture (i) — Synonymie avec DGD** : Les sources françaises distinguent : (a) "décompte général et définitif" (DGD) = compte final accepté du marché en cours d'exécution normal ; (b) "décompte de liquidation/résiliation" = compte de règlement d'un marché résilié. Donc (i) est partiellement vrai : tous deux sont des décomptes, mais concepts distincts (résiliation ≠ exécution normale). [DÉDUIT]
+2. **Lecture (i) — Décompte de liquidation France = ancien terme remplacé par résiliation (Source 5, Source 6)**
+   - "Décompte de liquidation" France = document de règlement comptes marché résilié
+   - Remplacé par "décompte de résiliation" CCAG 2021
+   - Distinct de DGD (exécution normale)
+   - [SOURCÉ]
 
-3. **Lecture (iii) — Liquidation comptable** : En comptabilité publique africaine (UEMOA/CEMAC), "liquidation" = phase distincte visant à "vérifier la réalité et l'exigibilité de la créance et d'en arrêter le montant" (Source 11). Elle précède ordonnancement et paiement. Cette phase s'applique à toute dépense (pas seulement marchés), et concerne vérification/quantification de la dette envers un créancier quelconque (fournisseur, entrepreneur, etc.). [SOURCÉ — Source 10, 11]
+3. **Pas d'accès aux textes Niger/Tchad et Directive UEMOA 04/2005 = pas de confirmation lecture (ii)**
+   - Décret Niger 2022-743 : inaccessible (Lacune A, B)
+   - Décret Tchad 03-503 : inaccessible (Lacune C, D)
+   - Directive UEMOA 04/2005 : inaccessible (Lacune E)
+   - Terminologie officielle Niger/Tchad reste indéterminée
+   - [LACUNE]
 
-4. **Articulation des deux concepts** : Un "décompte de liquidation" d'un marché public résilié peut être vu comme : (a) l'application du concept comptable public "liquidation" (vérifier réalité et quantifier montant dû à l'entrepreneur suite résiliation) + (b) l'expression procédurale "décompte de liquidation" (document récapitulatif du règlement). [DÉDUIT]
+### Conclusion provisoire [DÉDUIT + LACUNE]
 
-5. **Terminologie Niger/Tchad** : Lecture (ii) reste non tranchée. Les Codes Niger (Décret 2022-743) et Tchad (Décret 03-503) ne sont pas accessibles pour confirmer s'ils utilisent "décompte de liquidation", "décompte général et définitif", "décompte de résiliation" ou autre. La Directive UEMOA 04/2005 (applicable Niger) n'est pas consultable. [LACUNE D]
+"Décompte de liquidation" est probablement un terme **hybride africain** articulant :
+- **(a) Le concept comptable** : application de la phase UEMOA "liquidation" (vérifier réalité créance, quantifier montant) à un marché public
+- **(b) Le document procédural** : récapitulation du règlement (créances/débits) à l'instar du "décompte de résiliation" français
 
-**Conclusion provisoire [DÉDUIT]** : "Décompte de liquidation" est probablement un terme hybride africain associant (i) la phase comptable "liquidation" + (ii) le document procédural "décompte de résiliation" d'un marché. Elle pourrait aussi désigner le décompte établi lors de la phase comptable de "liquidation" du marché (vérification du montant dû au terme de l'exécution). Mais cette interprétation ne peut être confirmée qu'en consultant les Codes Niger/Tchad et la Directive UEMOA 04/2005, actuellement inaccessibles. Toute conclusion au-delà est spéculative et sort du cadre documentaliste.
+**Mais cette interprétation ne peut être confirmée ou infirmée** que par accès aux :
+- Décrets Niger 2022-743 et Tchad 03-503
+- Directive UEMOA 04/2005
+- CCAG Niger et Tchad
+- Jurisprudence ou guides administratifs locaux
+
+**En l'absence d'accès, classification en [LACUNE] est impérative selon R3** : pas de certitude terminologique Niger/Tchad.
 
 ---
 
-## Confiance générale
-- **Niveau** : faible à moyenne
-- **Motif** : Les trois sources primaires critiques (Directive UEMOA 04/2005, Décret Niger 2022-743, Décret Tchad 03-503, ainsi que les CCAG et Règlements de comptabilité publique) ne sont pas accessibles via les canaux de diffusion standards, malgré multiples tentatives. Seules des métadonnées et des synthèses secondaires (articles français, synthèses d'experts) ont pu être consultées. Aucune certitude sur la terminologie exacte, procédures précises et délais applicables au Niger et au Tchad n'a pu être établie. La note d'avocat en dépendra directement.
+## Confiance générale (RÉVISÉE)
+
+- **Niveau** : **faible** (inchangé en essence, confirmé après deuxième passe)
+- **Motif précisé** : Deuxième passe a confirmé que les sources primaires critiques (3 Décrets, 1 Directive) restent inaccessibles malgré 12 requêtes et 7 axes supplémentaires testés. Deux sources primaires UEMOA comptabilité publique (Articles 49 et 53) ont pu être accédées, confirmant l'existence d'une phase comptable "liquidation" en droit UEMOA. Cependant, la **question terminologique centrale** (utilise-t-on "décompte de liquidation" au Niger/Tchad ?) et le **mécanisme procédural** (qui établit, délais, recours) restent en lacunes critiques. La note d'avocat sera inévitablement limitée par ces absences documentaires primaires.
