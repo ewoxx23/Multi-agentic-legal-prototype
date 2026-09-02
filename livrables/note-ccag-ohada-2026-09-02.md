@@ -8,7 +8,7 @@ Les Actes uniformes OHADA ne couvrent pas la commande publique : l'article 2 du 
 
 ### A. Le point de comparaison français
 
-CE, 7e et 2e sous-sections réunies, 12 novembre 2015, *Société Linagora c/ École nationale supérieure d'arts et métiers*, n° 384052, mentionné aux tables du recueil Lebon, a été rendu à propos d'un marché de renouvellement d'un outil de gestion financière, budgétaire et comptable, résilié pour faute et soumis au CCAG-TIC. L'arrêt porte sur les articles 42-1 c), 44.1 et 47-2 du CCAG-TIC [SOURCÉ]. Trois apports :
+CE, 7e et 2e sous-sections réunies, 12 novembre 2015, *Société Linagora c/ École nationale supérieure d'arts et métiers*, n° 384052, Recueil Lebon, a été rendu à propos d'un marché de renouvellement d'un outil de gestion financière, budgétaire et comptable, résilié pour faute et soumis au CCAG-TIC. L'arrêt porte sur l'article 47-2 du CCAG-TIC [SOURCÉ]. Trois apports :
 
 - **(A)** le décompte de résiliation devient définitif à l'expiration du délai de réclamation du CCAG-TIC (deux mois), sauf réclamation régulière dans les formes ; qu'une contestation de la résiliation soit portée par une autre voie ne fait pas obstacle à ce caractère définitif [SOURCÉ] ;
 - **(B)** l'article 47-2 du CCAG-TIC impose une réclamation dans un délai de deux mois à compter de l'apparition du différend, à peine de forclusion — point de départ distinct de celui du CCAG-Travaux (notification du décompte général) [SOURCÉ] ;
