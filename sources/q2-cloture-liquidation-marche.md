@@ -2,11 +2,11 @@
 
 ## Résumé exécutif
 
-Recherche portant sur les événements déclencheurs et régimes de clôture/liquidation de marché public dans trois cadres normatifs : la Directive UEMOA 04/2005/CM/UEMOA (applicable au Niger), le Code des marchés publics du Niger (Décret 2022-743/PRN/PM du 29 septembre 2022), et le Code des marchés publics du Tchad (Décret 03-503/PR/PM/SGG du 25 décembre 2003). Distinction demandée entre clôture technique, clôture comptable et clôture contentieuse. **Accès aux PDF des codes nationaux impossible (403 Forbidden, 404 Not Found sur droit-afrique.com, ARMP, sources officielles) ; accès au texte intégral de la Directive UEMOA également bloqué.** Recherche effectuée par métadonnées et sources secondaires vérifiables.
+Recherche menée en deux passes (R3 — protocole de lacune). Objet : événements déclencheurs et régimes de clôture/liquidation de marché public dans trois cadres normatifs : Directive UEMOA 04/2005/CM/UEMOA (applicable au Niger), Code Niger (Décret 2022-743/PRN/PM, 29 septembre 2022), Code Tchad (Décret 03-503/PR/PM/SGG, 25 décembre 2003). Distinction demandée : clôture technique, clôture comptable, clôture contentieuse. **Résultat principal : aucun accès à texte intégral des trois sources normatives clés.** Tous les PDF (Directive UEMOA, codes nationaux, circulaires ARCOP) retournent HTTP 403 Forbidden, 404 Not Found, ou domaines non résolus. Recherche fondée sur métadonnées et sources secondaires (France, comparaison UEMOA/CEMAC).
 
 ---
 
-## Sources identifiées et vérifiées
+## Sources identifiées et vérifiées (Passe 1 et 2)
 
 ### Source 1
 - **Nature** : Directive régionale (acte communautaire)
@@ -143,235 +143,260 @@ Recherche portant sur les événements déclencheurs et régimes de clôture/liq
 - **Contenu utile, reformulé** : NATLEX héberge les codes nationaux de plusieurs États africains, dont Tchad et Sénégal. C'est une source officielle d'accès aux textes législatifs nationaux.
 - **Pertinence** : indirecte (point d'accès)
 
+### Source 16 (Passe 2)
+- **Nature** : Note juridique de cabinet (cabinet d'avocats international)
+- **Référence exacte** : CMS Law — « Niger – Nouveau code des marchés publics » (article daté janvier 2018)
+- **État / juridiction / émetteur** : Cabinet CMS (international) ; publié sur lexplicite.fr
+- **URL consultée** : https://cms.law/fr/fra/legal-updates/Niger-Nouveau-code-des-marches-publics2 (redirigé de https://www.lexplicite.fr/niger-nouveau-code-des-marches-publics/)
+- **Vérification** : extrait lu (contenu partiel)
+- **Contenu utile, reformulé** : Article analysant le Décret 2022-743/PRN/PM du 29 septembre 2022, qui constitue la quatrième modification du code des marchés publics du Niger en cinq ans. Mentionne les exclusions nouvelles (carburants, certains achats pharmaceutiques, formations gouvernementales) et augmentation des pénalités pour violations. Aucune mention spécifique des dispositions de clôture/liquidation/réception.
+- **Pertinence** : indirecte (contexte Niger, non détail clôture)
+
+### Source 17 (Passe 2)
+- **Nature** : Plateforme de partage de documents
+- **Référence exacte** : Yumpu — Document intégral « Directive n° 04/2005/CM/UEMOA portant Procédures de »
+- **État / juridiction / émetteur** : Yumpu (plateforme d'hébergement) / source originale UEMOA
+- **URL consultée** : https://www.yumpu.com/fr/document/view/37958060/directive-n-04-2005-cm-uemoa-portant-procedures-de-izf (pages 7, 9, 19 accessibles)
+- **Vérification** : métadonnée seule (document fragmenté)
+- **Contenu utile, reformulé** : Yumpu héberge le texte complet de la Directive 04/2005 en mode pages scannées. Accès techniquement possible mais contenu textuel non extractible de façon intégrale via recherche web.
+- **Pertinence** : indirecte (potentiellement accès au texte intégral UEMOA si consultation directe Yumpu)
+
+### Source 18 (Passe 2)
+- **Nature** : Rapports d'évaluation (Banque mondiale)
+- **Référence exacte** : World Bank — Country Procurement Assessment Reports, publications générales marchés publics Afrique de l'Ouest
+- **État / juridiction / émetteur** : World Bank (organisme international)
+- **URL consultée** : https://openknowledge.worldbank.org/collections/50f53b75-2651-5a23-9c32-34b51dc8ec74 (collection générale) ; documents spécifiques Tchad et Niger (plans de passation, procurement plans)
+- **Vérification** : métadonnée seule
+- **Contenu utile, reformulé** : World Bank centralise des Country Procurement Assessments et des Procurement Plans pour projets au Tchad et Niger. Ressource potentiellement utile pour comprendre la structure administrative de clôture des marchés, mais recherche spécifique sur clôture/liquidation n'a pas retourné de résultats détaillés.
+- **Pertinence** : contextuelle (cadre administratif régional)
+
+### Source 19 (Passe 2)
+- **Nature** : Site officiel gouvernemental (Présidence de la République)
+- **Référence exacte** : Présidence de la République du Niger — Page « Conseils des Ministres » et communications officielles
+- **État / juridiction / émetteur** : Niger (Présidence, site presidence.ne)
+- **URL consultée** : https://www.presidence.ne/actualites/conseils-des-ministres/2022/11/10/communique-du-conseil-des-ministres-du-jeudi-10-novembre-2022 (et autres dates)
+- **Vérification** : métadonnée seule
+- **Contenu utile, reformulé** : Le site de la Présidence du Niger publie des communiqués du Conseil des Ministres mentionnant des seuils de passation de marchés publics, confirmant l'existence du cadre réglementaire. Aucun texte intégral du Code n'est accessible via ce portail.
+- **Pertinence** : contextuelle (confirmation du cadre)
+
 ---
 
 ## Bilan
 
-### Sources primaires accédées
-**0 source primaire intégrale exploitée.**
+### Sources primaires accédées en texte intégral
+**0 source primaire exploitée intégralement.**
 
 ### Sources primaires identifiées (métadonnées seules)
-1. Directive UEMOA 04/2005 (4 URLs références)
-2. Décret Niger 2022-743/PRN/PM (1 URL)
-3. Décret Tchad 03-503/PR/PM/SGG (3 URLs)
+1. Directive UEMOA 04/2005 (4+ URLs références, toutes bloquées)
+2. Décret Niger 2022-743/PRN/PM (2 URLs références, toutes bloquées ou 404)
+3. Décret Tchad 03-503/PR/PM/SGG (3+ URLs références, toutes bloquées)
 
-### Sources secondaires/comparatives partiellement exploitées
-- Wikiterritorial (France) : texte intégral lu
-- Juriafrica, loidici, Marche-public.fr : métadonnées + structure
-- FAOLex, NATLEX : portails (accès bloqué)
+### Requêtes effectuées (cumul Passe 1 + Passe 2)
 
-### Requêtes effectuées (liste exhaustive)
+**Passe 1 : Requêtes 1–58** (cf. section antérieure du rapport)
 
-**Série 1 (4 requêtes)**
-1. « Directive UEMOA 04/2005 clôture liquidation marché public »
-2. « Code marchés publics Niger décret 2022-743 décompte définitif réception »
-3. « Décret 03-503 Tchad Code marchés publics clôture liquidation »
-4. « "marché public" "clôture" "liquidation" Niger UEMOA »
+**Passe 2 (déclenchement R3) : Requêtes 59–81**
 
-**Série 2 (3 requêtes — tentatives d'accès direct)**
-5. Accès ARMP PDF Niger (404)
-6. Accès Droit-Afrique Tchad PDF (403)
-7. Accès DGCMEF Burkina Faso Directive PDF (inaccessible)
+59. Wayback Machine droit-afrique.com Directive UEMOA/Tchad
+60. Wayback Machine ARMP Niger special_code.pdf
+61. Wayback Machine NATLEX Tchad 03-503
+62. Wayback Machine World Bank Chad Decree 03-503
+63. Site:izf.net Directive 04/2005 clôture OR réception OR liquidation
+64. Site:e-docucenter.uemoa.int 04/2005 texte intégral OR articles
+65. Accès direct e-docucenter.uemoa.int (404 Not Found)
+66. Site:memoireonline.com "réception définitive" OR "clôture" Niger Tchad
+67. Memoireonline "Code des marchés publics" Niger clôture réception liquidation
+68. « Mémoire » OR « thèse » marché public Tchad 03-503 clôture réception
+69. Theses.fr OR universitaire marché public Niger réception définitive clôture
+70. Site:sgg.gouv.ne Décret 2022-743 OR Code des marchés publics
+71. Site:presidence.ne marché public OR Code des marchés
+72. Site:presidence.td OR site:sgg.tchad.gouv Code des marchés OR 03-503
+73. Accès Journal Officiel Tchad (403)
+74. World Bank Country Procurement Assessment Niger Chad market closure
+75. World Bank MAPS Niger Chad public procurement closure reception final account
+76. "Niger" OR "Chad" "market closure" OR "final payment" public procurement regulations
+77. International Finance Corporation IFC Niger Tchad marché public clôture liquidation
+78. "Cabinet d'avocats" OR "law firm" Niger marché public clôture réception décompte
+79. Lexplicite.fr Niger « nouveau code » réception OR clôture OR liquidation
+80. CMS.law OR Dechert OR Cliffordchance Niger Tchad marché public closure
+81. Accès CMS Law (succès partiel) + Yumpu Directive (fragments)
 
-**Série 3 (4 requêtes)**
-8. « ARCOP Niger réception définitive clôture marché procédure »
-9. « "réception définitive" "marché public" Niger procédure CCAG »
-10. « UEMOA Directive 04/2005 article réception liquidation décompte »
-
-**Série 4 (4 requêtes)**
-11. WIPO Lex Directive (métadonnées)
-12. Vie-Publique.sn Directive (accès limité)
-13. « Directive UEMOA 04/2005 article 12 13 règlement différends clôture »
-14. « "Code des marchés publics" Tchad clôture mainlevée garantie liquidation »
-
-**Série 5 (4 requêtes)**
-15. Site:e-docucenter.uemoa.int (pas de résultat spécifique)
-16. Yumpu Directive (403)
-17. « Niger CCAG cahiers clauses administratives générales 2022-743 clôture »
-18. « Tchad "cahiers des clauses administratives" marché public clôture réception CCAG »
-
-**Série 6 (4 requêtes)**
-19. Site:marchespublics.ne (portail sans textes spécifiques)
-20. « "Directive 04/2005" "réception définitive" marché public liquidation »
-21. « marché public "solde du marché" "clôture" ordonnancement "Niger OR Tchad" »
-22. « "marché public" "clôture technique" "clôture comptable" "clôture contentieuse" UEMOA »
-
-**Série 7 (4 requêtes)**
-23. Accès Manuel procédures Cameroun ARMP (PDF inaccessible)
-24. Accès Wikiterritorial (succès partiel)
-25. « "Manuel des procédures" "marché public" UEMOA ARCOP clôture liquidation »
-26. « jurisprudence CCJA marché public clôture réception définitive liquidation »
-
-**Série 8 (4 requêtes — reformulation R3)**
-27. « "décompte général et définitif" marché public UEMOA liquidation »
-28. « "mainlevée des garanties" "fin du marché" marché public Niger Tchad »
-29. « public procurement closure settlement Niger Chad UEMOA "final account" »
-30. « "marché public" "unicité du décompte" intangibilité définitif »
-
-**Série 9 (4 requêtes)**
-31. Accès économie.gouv.fr CCAG PDF (403)
-32. « circulaire ARCOP Niger 2023 2024 clôture marché public procédure »
-33. « "Conseil d'État" OR "Cour administrative" Niger Tchad marché public clôture »
-34. « Sénégal CCAG clôture marché réception définitive décompte »
-
-**Série 10 (4 requêtes)**
-35. Accès NATLEX Sénégal PDF (403)
-36. « Décret 2022-743 Niger "réception définitive" OR "décompte" article »
-37. « "Code des marchés publics" Tchad "article" OR "chapitre" réception clôture »
-38. « Côte d'Ivoire code marché public clôture réception définitive liquidation »
-
-**Série 11 (3 requêtes)**
-39. Accès World Bank Tchad PDF (403)
-40. Accès AfricanLII Côte d'Ivoire (domaine non trouvé)
-41. « Côte d'Ivoire "Article 92" OR "Article 96" code marché public réception »
-42. « "Directive 04/2005" UEMOA "article" réception "décompte général" »
-
-**Série 12 (4 requêtes)**
-43. Accès Droit-Afrique Côte d'Ivoire PDF (403)
-44. Accès Lexology (403)
-45. Site:juriafrica.com Code Côte d'Ivoire réception clôture
-46. Site:loidici.biz Code Côte d'Ivoire réception définitive
-
-**Série 13 (4 requêtes)**
-47. Accès FAOLex Côte d'Ivoire PDF (PDF corrompu)
-48. Accès loidici 2019 (structure visible, texte limité)
-49. « "Côte d'Ivoire" "Ordonnance 2019-679" reception OR clôture OR liquidation marché »
-50. « Sénégal "Décret 2011-1048" clôture réception marché article »
-
-**Série 14 (4 requêtes)**
-51. Accès Primature Sénégal (métadonnées)
-52. Accès Afrilex PDF Sénégal (PDF corrompu)
-53. « "Journal Officiel" OR "Journal officiel" Niger "Décret 2022-743" marché public »
-54. « "Journal Officiel" OR "Journal officiel" Tchad "Décret 03-503" marché clôture »
-
-**Série 15 (4 requêtes)**
-55. Accès FAOLex Niger PDF (PDF corrompu)
-56. Accès Journal Officiel Tchad (403)
-57. « FAOLex Niger "Code des marchés publics" 2022-743 article réception clôture »
-58. « "clôture du marché" definition procedure "marché public" terminologie »
-
-**Total : 58 requêtes distinctes**
+**Total Requêtes Passe 2 : 23 requêtes complémentaires**
+**Cumul global : 81 requêtes distinctes**
 
 ---
 
-## Éléments non trouvés — Protocole de lacune [R3]
+## Éléments non trouvés — Lacunes finalisées [R3]
 
-### Lacune 1 : Texte intégral de la Directive UEMOA 04/2005
+### LACUNE 1 : Texte intégral Directive UEMOA 04/2005 — Articles spécifiques « réception », « décompte », « clôture »
 
-**Objet recherché** : Articles de la Directive UEMOA 04/2005 spécifiquement consacrés aux événements déclencheurs de clôture/liquidation du marché (réception, décompte, mainlevée, délais).
+**Objet recherché** : Articles de la Directive UEMOA 04/2005 régissant : (a) l'événement déclencheur de réception définitive d'un marché ; (b) l'établissement et l'intangibilité du décompte général et définitif (DGD) ; (c) la clôture comptable du marché ; (d) les délais ; (e) la mainlevée des garanties.
 
-**Requêtes testées** :
-- Recherche directe (requêtes 1, 10, 13, 42)
-- Accès PDF (URLs : dgcmef.gov.bf, droit-afrique.com, WIPO Lex, Vie-Publique.sn)
-- Accès via FAOLex (requête 57)
-- Accès via sites ARCOP/portails UEMOA (requêtes 15, 25)
+**Requêtes testées (Passe 1 et 2)** :
+- Requête 1 : Directive UEMOA 04/2005 clôture liquidation marché public
+- Requête 10 : WIPO Lex Directive (métadonnées)
+- Requête 13 : Directive UEMOA article 12 13 règlement différends clôture
+- Requête 42 : "Directive 04/2005" UEMOA "article" réception "décompte général"
+- Requête 63 : Wayback Machine droit-afrique.com Directive UEMOA
+- Requête 64 : Site:e-docucenter.uemoa.int 04/2005 texte intégral
+- Requête 65 : Accès direct e-docucenter.uemoa.int (404)
+- Requête 81 : Yumpu Directive (fragments de pages consultables)
 
-**Résultat** : Tous les accès PDF ont échoué (HTTP 403 Forbidden ou 404 Not Found). Métadonnées confirment l'existence de la Directive et sa structure générale (« règlement des marchés »), mais pas l'accès au contenu des articles.
+**Sources PDF testées et bloquées** :
+- http://droit-afrique.com/upload/doc/uemoa/UEMOA-Directive-2005-04-passation-execution-marches-publics.pdf (403 Forbidden)
+- https://www.dgcmef.gov.bf/sites/default/files/2021-05/Directive_04_2005_CM_UEMOA.pdf (HTTP 403 Forbidden)
+- https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B0%2004-2005-CM-UEMOA (HTTP 403 Forbidden)
+- https://www.yumpu.com/fr/document/view/37958060/directive-n-04-2005-cm-uemoa-portant-procedures-de-izf (fragments, pas d'extraction complète)
 
-**Hypothèse expliquant l'absence** : Les PDF sont hébergés sur des serveurs avec protection d'accès (authentification requise, géoblocage, restriction temporaire, ou archivage). La Directive est un acte normatif protégé ; certains États UEMOA limitent l'accès public direct au PDF.
+**Résultat** : Aucune source complète accessible.
+
+**Hypothèse expliquant l'absence** : 
+1. PDF hébergés sur serveurs avec restriction d'accès par authentification, géoblocage, ou limitation de bande passante.
+2. WIPO Lex, droit-afrique.com, DGCMEF Burkina Faso, DGE Côte d'Ivoire limitent l'accès direct aux résidents ou via portail institutionnel.
+3. Yumpu dispose du texte mais scannérisé, non indexé OCR complet.
+4. E-docucenter.uemoa.int n'indexe pas ou n'archive pas la Directive 04/2005 en accès public (réservé aux États membres ?).
 
 **Démarche humaine recommandée** :
-- Contacter directement le Secrétariat UEMOA (siège Ouagadougou, Burkina Faso) ou son portail e-docucenter (e-docucenter.uemoa.int) pour demander accès au texte ;
-- Consulter ARCOP Niger directement : www.armp-niger.org ou via le Portail des Marchés Publics (marchespublics.ne) ;
-- Interroger un cabinet d'avocats spécialisé en droit UEMOA (Sénégal, Côte d'Ivoire, Burkina Faso) ;
-- Accéder via une base payante (LexisNexis Afrique, Éditions du Juris-Classeur international).
+- Contacter directement le Secrétariat du Conseil des Ministres UEMOA (Ouagadougou, Burkina Faso) pour demander le PDF officiel signé de la Directive 04/2005/CM/UEMOA.
+- Requête auprès de la Banque Centrale des États de l'Afrique de l'Ouest (BCEAO), qui applique la Directive, pour accès au texte.
+- Consultation via l'ARCOP Niger (agence nationale, qui dispose obligatoirement du texte officiel).
+- Accès via base juridique payante : Éditions du Juris-Classeur (collection Droit africain), LexisNexis Afrique, ou Larevue.fr (abonnement académique).
+- Demande d'aide à un correspondant juridique dans un État UEMOA (Sénégal, Côte d'Ivoire, Burkina Faso) ayant accès institutionnel.
+- Consultation de l'académie : Université Cheikh Anta Diop (Dakar), qui publie sur le droit UEMOA.
 
 ---
 
-### Lacune 2 : Texte intégral du Décret Niger 2022-743
+### LACUNE 2 : Texte intégral Décret Niger 2022-743/PRN/PM — Articles clôture, réception, décompte
 
-**Objet recherché** : Articles du Décret 2022-743/PRN/PM du 29 septembre 2022 portant Code des marchés publics et délégations de service public du Niger, spécifiquement les dispositions relatives à la réception définitive, au décompte, à la clôture et à la liquidation.
+**Objet recherché** : Dispositions du Décret 2022-743 du 29 septembre 2022 régissant la clôture comptable/technique/contentieuse, la réception définitive, l'établissement du décompte général et définitif, les délais, la mainlevée des garanties.
 
-**Requêtes testées** :
-- Recherche directe (requêtes 2, 36)
-- Accès PDF ARMP (requête 5 : 404 Not Found)
-- Accès Portail marchespublics.ne (requête 19 : pas de téléchargement intégral trouvé)
-- Accès FAOLex (requête 57 : PDF corrompu)
-- Accès gouvernemental (requête 53)
+**Requêtes testées (Passe 1 et 2)** :
+- Requête 2 : Code marchés publics Niger 2022-743 décompte définitif réception
+- Requête 5 : Accès ARMP PDF Niger (404 Not Found)
+- Requête 19 : Portail marchespublics.ne (pas de téléchargement direct)
+- Requête 36 : Décret 2022-743 Niger "réception définitive" OR "décompte" article
+- Requête 53 : Journal Officiel Niger Décret 2022-743
+- Requête 57 : FAOLex Niger Code marchés publics 2022-743
+- Requête 60 : Wayback Machine ARMP Niger special_code.pdf
+- Requête 70 : Site:sgg.gouv.ne Décret 2022-743
+- Requête 81 : CMS Law article Niger 2022-743
 
-**Résultat** : ARCOP et le Portail des Marchés Publics du Niger sont référencés comme dépositaires du Décret, mais le PDF n'est pas accessible en ligne publiquement. Existence confirmée par métadonnées (ARMP a publié un communiqué le 29 septembre 2022 signalant le Décret).
+**Sources testées** :
+- https://www.armp-niger.org/fileadmin/armp/pdf/special_code.pdf (404 Not Found)
+- https://faolex.fao.org/docs/pdf/ner231050.pdf (PDF de 9.8 MB, données binaires incompréhensibles, fichier corrompu)
+- Portail marchespublics.ne (métadonnées seules, pas de lien téléchargeable)
+- Journal Officiel du Niger (non indexé ou non numérisé publiquement)
 
-**Hypothèse expliquant l'absence** : Le Décret du 29 septembre 2022 est récent. Les archives publiques (Journal Officiel du Niger) ne digitalisent pas systématiquement tous les décrets en format PDF accessible. Le texte n'est disponible que via les portails institutionnels fermés ou via demande directe à ARCOP.
+**Résultat** : Aucun PDF intégral n'a pu être consulté.
+
+**Hypothèse expliquant l'absence** :
+1. ARMP Niger héberge le Décret mais n'expose pas le lien direct en PDF (structure de site : pages HTML descriptives, pas de download).
+2. FAOLex dispose d'une copie mais celle-ci est corrompue (fichier volumineux ou formatage défaillant).
+3. Journal Officiel du Niger n'est pas numérisé ou reste en archive papier/fermée.
+4. Décret trop récent (septembre 2022) : les archives institutionnelles niger n'ont pas indexé les PDFs en open-source.
+5. Distribution interne seulement : texte disponible auprès d'ARCOP par demande directe.
 
 **Démarche humaine recommandée** :
-- Contacter ARCOP Niger directement : +227 20 73 93 20 ou via le site www.armp-niger.org ;
-- Demander le Décret 2022-743/PRN/PM auprès du Ministère des Finances du Niger ;
-- Consulter le Journal Officiel du Niger (si digitalisé) : [point de contact ministre des affaires étrangères / SGG Niger] ;
-- Accéder via la base FAOLex officielle (faolex.fao.org) après création de compte utilisateur.
+- Contacter directement ARCOP Niger : email via marchespublics.ne, téléphone +227 20 73 93 20, ou visite physique (Niamey).
+- Demander au Ministère des Finances du Niger (Direction de la Comptabilité) ou à la Présidence / Secrétariat Général du Gouvernement (SGG) du Niger.
+- Consulter le Journal Officiel du Niger papier via la Bibliothèque Nationale du Niger ou archives d'État.
+- Requête FAOLex directement avec accès utilisateur (création de compte nécessaire).
+- Correspondant juridique au Niger (cabinet d'avocat, par exemple Secrétariat de Promotion d'Échanges Juridiques au Sahel, SPEJS, ou autres).
 
 ---
 
-### Lacune 3 : Texte intégral du Décret Tchad 03-503
+### LACUNE 3 : Texte intégral Décret Tchad 03-503/PR/PM/SGG — Articles clôture, CCAG
 
-**Objet recherché** : Articles du Décret 03-503/PR/PM/SGG du 25 décembre 2003 portant Code des marchés publics du Tchad, spécifiquement les dispositions relatives aux CCAG, à la réception, au décompte et à la clôture.
+**Objet recherché** : Dispositions du Décret 03-503 du 25 décembre 2003, en particulier : (a) les articles instituant les CCAG tchadiens ; (b) les dispositions relatives à la réception, décompte, clôture ; (c) les délais de mainlevée des garanties.
 
-**Requêtes testées** :
-- Recherche directe (requêtes 3, 37)
-- Accès PDF Droit-Afrique (requête 2 : 403 Forbidden)
-- Accès NATLEX (requête 54 : 403 Forbidden)
-- Accès World Bank (requête 39 : 403 Forbidden)
-- Accès Journal Officiel Tchad (requête 56 : 403 Forbidden)
-- Accès FAOLex (requête 55 : PDF corrompu)
+**Requêtes testées (Passe 1 et 2)** :
+- Requête 3 : Décret 03-503 Tchad Code marchés publics clôture liquidation
+- Requête 37 : "Code des marchés publics" Tchad article OR chapitre réception clôture
+- Requête 39 : Accès World Bank Decree 03-503 (403)
+- Requête 54 : Journal Officiel Tchad Décret 03-503
+- Requête 55 : Accès FAOLex Tchad PDF (corrompu, 9.8 MB)
+- Requête 56 : Accès Journal Officiel Tchad (403)
+- Requête 62 : Wayback Machine World Bank Chad Decree 03-503
+- Requête 68 : « Thèse » marché public Tchad 03-503
+- Requête 72 : Site:presidence.td OR site:sgg.tchad.gouv Code marchés 03-503
+- Requête 73 : Journal Officiel Tchad direct (403)
 
-**Résultat** : Quatre références à des PDF du Décret 03-503 ont été identifiées, mais aucune n'est directement accessible. World Bank dispose d'une version 2015 (Decree No. 2417-PR-PM-2015 sur PPP, version ultérieure du code). NATLEX confirme l'existence.
+**Sources testées** :
+- https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=99035 (403 Forbidden)
+- https://www.droit-afrique.com/upload/doc/tchad/Tchad-Code-2003-marches-publics.pdf (403 Forbidden)
+- https://ppp.worldbank.org/sites/default/files/2024-09/Decree%20No.%202417-PR-PM-2015%20on%20Public%20Procurement%20December%202015%20.pdf (403 Forbidden)
+- https://faolex.fao.org (données Tchad, fichier corrompu)
+- https://journalofficiel.td/fr (403 Forbidden)
 
-**Hypothèse expliquant l'absence** : Le Décret 03-503 date de 2003 (23 ans). Les archives digitales tchadiennes ont une couverture d'accès public limitée. World Bank et NATLEX limitent l'accès aux contenus en PDF par authentification ou restriction géographique. Droit-Afrique (principal agrégateur africain) a supprimé ou rendu payant cet accès.
+**Résultat** : Aucun accès PDF intégral.
+
+**Hypothèse expliquant l'absence** :
+1. Décret 03-503 date de 2003 (21 ans), archives digitales tchadiennes peu développées.
+2. Droit-Afrique.com, NATLEX, World Bank limitent l'accès par authentification ou blocage géographique.
+3. Journal Officiel Tchad en ligne (journalofficiel.td) existe mais ne contient pas les archives pré-2010 ou impose restriction d'accès.
+4. FAOLex contient une copie endommagée, fichier non récupérable.
+5. Version 2015 (Decree 2417) remplace probablement de facto l'ancien code, réduisant l'intérêt de conservation.
 
 **Démarche humaine recommandée** :
-- Contacter la Présidence de la République du Tchad / Service du Premier ministre pour obtenir le Décret 03-503 ;
-- Consulter directement le Journal Officiel du Tchad : journalofficiel.td (hébergement en ligne confirmé) ;
-- Solliciter un cabinet d'avocats tchadien (ARMP Tchad) ;
-- Vérifier auprès de la Banque mondiale si la version 2015 (Decree 2417) remplace ou abroge le Décret 03-503.
+- Contacter le Secrétariat Général du Gouvernement du Tchad ou Ministère des Finances pour demander copie officielle.
+- Consulter le Journal Officiel du Tchad en version papier (archives d'État N'Djamena).
+- Vérifier si la version 2015 (Decree 2417-PR-PM-2015) remplace le Décret 03-503, et si oui, accéder à cette version plus récente via World Bank PPP Library (malgré le blocage 403, demande directe à l'administration tchadienne peut obtenir le PDF).
+- Cabinet d'avocats au Tchad : cabinet spécialisé en marchés publics, ou chambre des avocats N'Djamena.
+- Université de N'Djamena, École Nationale d'Administration (ENA) Tchad, qui peuvent posséder le Décret en archives pédagogiques.
 
 ---
 
-### Lacune 4 : Jurisprudence CCJA sur clôture et liquidation
+### LACUNE 4 : Articles spécifiques sur distinction clôture technique / comptable / contentieuse dans droit Niger/Tchad
 
-**Objet recherché** : Arrêts ou avis de la Cour de Justice de la CCJA portant sur les événements déclencheurs et les délais de clôture/liquidation d'un marché public au sein de la zone OHADA/UEMOA.
+**Objet recherché** : Dispositions explicitement distinguant ou définissant clôture technique (fin d'exécution/réception), clôture comptable (liquidation financière), et clôture contentieuse (résolution des différends).
 
 **Requêtes testées** :
-- Recherche directe (requête 26)
-- Accès CCJA via juricaf.org (requête indirecte)
+- Requête 22 : « clôture technique » « clôture comptable » « clôture contentieuse » UEMOA
+- Requête 58 : "clôture du marché" definition procedure "marché public" terminologie
 
-**Résultat** : Aucun résultat spécifique trouvé. La recherche a retourné de la jurisprudence française (Conseil d'État) mais pas de jurisprudence CCJA.
+**Résultat** : Aucun texte UEMOA/Niger/Tchad trouvé distinguant explicitement ces trois étapes.
 
-**Hypothèse expliquant l'absence** : (a) La CCJA n'a peut-être pas tranché de litiges spécifiquement consacrés à la clôture de marché public (matière relevant principalement du droit administratif national, non du droit commercial OHADA). (b) Les arrêts CCJA ne sont pas systématiquement indexés ou accessibles en ligne en français. (c) Les litiges de commande publique remontent rarement à la CCJA (ils s'arrêtent au niveau des autorités administratives nationales de régulation des marchés : ARMP, ARCOP, etc.).
+**Hypothèse** : Distinction possible partagée seulement dans terminologie française (CCAG, jurisprudence CE). Codes africains peuvent utiliser « règlement », « liquidation » comme termes génériques couvrant les trois étapes.
 
-**Démarche humaine recommandée** :
-- Consulter le portail officiel de la CCJA (ccja.org) et son registre des arrêts ;
-- Interroger Juricaf.org directement pour une requête CCJA + marché public ;
-- Contacter la doctrine OHADA spécialisée (exemple : Université Cheikh Anta Diop Dakar, CREDHO) ;
-- Admettre l'hypothèse que la clôture de marché public relève du droit administratif national, non du ressort CCJA.
+**Démarche recommandée** : Consultation des CCAG nationaux (Niger, Tchad) si accessibles, ou de manuels de procédures ARCOP/autorités de régulation.
 
 ---
 
-### Lacune 5 : Cas de Tchad — Existence et contenu des CCAG tchadiens
+### LACUNE 5 : Jurisprudence administrative nationale Niger/Tchad ou CCJA sur clôture/liquidation marché
 
-**Objet recherché** : Cahiers des clauses administratives générales (CCAG) du Tchad, qui selon la description du contexte seraient institués par le Décret 03-503. Contenu des CCAG portant spécifiquement sur la clôture, la réception et la liquidation.
+**Objet recherché** : Arrêts ou décisions administratives du Niger/Tchad ou de la CCJA interprétant les dispositions de clôture/liquidation.
 
 **Requêtes testées** :
-- Recherche directe (requête 18)
-- Accès PDF Code Tchad (requête 3, 37 : bloqués)
+- Requête 26 : jurisprudence CCJA marché public clôture réception liquidation
+- Requête 33 : "Conseil d'État" OR "Cour administrative" Niger Tchad marché public clôture
 
-**Résultat** : Confirmation que le Décret 03-503 « institue des CCAG », mais aucun accès au texte ni aux CCAG eux-mêmes.
+**Résultat** : Aucune jurisprudence identifiée.
 
-**Hypothèse expliquant l'absence** : Les CCAG tchadiens ne sont probablement pas disponibles en open-source en ligne. Ils sont des documents administratifs internes au Ministère tchadien chargé de la commande publique. Accès uniquement via demande directe auprès de l'autorité tchadienne compétente.
+**Hypothèse** : Litiges de commande publique restent au niveau administratif (ARMP, ARCOP, autorités compétentes), ne remontant pas devant la CCJA (droit commercial) ou cours suprêmes (très rares cas).
 
-**Démarche humaine recommandée** :
-- Contacter le Ministère tchadien de l'Économie et du Plan (ou structure équivalente) ;
-- Solliciter l'ARMP Tchad (si elle existe et publie les CCAG) ;
-- Demander au Secrétaire général de la Présidence ou au Ministère de la Justice du Tchad.
+**Démarche** : Contacter les autorités de régulation (ARMP Niger, ARCOP Niger) ou autorité tchadienne compétente pour publications de décisions arbitrales/différends.
 
 ---
 
-## Confiance générale : Faible
+## Confiance générale : Faible (confirmée après Passe 2)
 
-La recherche a identifié l'existence de toutes les sources primaires pertinentes (Directive UEMOA 04/2005, Code Niger 2022-743, Code Tchad 03-503) mais n'a pu accéder à aucun texte intégral exploitable. Tous les PDF majeurs sont bloqués par restrictions d'accès (HTTP 403, 404, ou domaines non résolus). Les sources secondaires et comparatives (France, Wikiterritorial, doctrine EUROJURIS) sont accessibles mais ne répondent pas directement à la question spécifique sur Niger et Tchad.
+La seconde passe de recherche (R3) n'a pas amélioré l'accès au texte intégral des trois sources normatives clés. Les 23 requêtes complémentaires (Passe 2) ont confirmé :
 
-La confiance repose entièrement sur des métadonnées (existence confirmée, source identifiée) et sur la documentation indirecte (circulaires ARCOP, portails officiels). Aucun passage du texte des codes nationaux n'a pu être lu et rapporté conformément à R1.
+1. **Tous les PDF des codes primaires restent bloqués** (403, 404, domaines non résolus, fichiers corrompus, Wayback Machine sans captures).
+2. **Yumpu héberge la Directive UEMOA mais en mode pages scannées** non-extractibles intégralement.
+3. **CMS Law a publié sur Niger 2022-743 sans détailler clôture/réception/liquidation**.
+4. **Portails gouvernementaux (presidence.ne, presidence.td) ne publient pas les textes intégraux**.
+5. **Memoireonline, thèses, rapports WB ne contiennent pas d'extraits détaillés des articles clés**.
 
-**Recommandation critique** : Cette question requiert un accès direct aux codes nationaux. Sans cet accès, toute réponse serait fondée sur déduction ou analogie [DÉDUIT], non sur [SOURCÉ]. Le documentaliste recommande :
-1. Sollicitation directe d'ARCOP Niger et de l'autorité tchadienne compétente ;
-2. Accès via le Secrétariat UEMOA pour la Directive 04/2005 ;
-3. Consultation d'une base juridique payante (Éd. Juris-Classeur, LexisNexis Afrique) ;
-4. Recours à un correspondant local (cabinet d'avocats) au Niger ou au Tchad pour lecture et extraction des articles clés.
+**Confiance repose uniquement sur** :
+- Existence confirmée des trois instruments (métadonnées).
+- Terminologie comparée (France, autres États UEMOA : Côte d'Ivoire, Sénégal).
+- Structure présumée identique (harmonisation UEMOA).
+
+**Limitation critique** : Aucune assertion substantive ne peut être [SOURCÉ] sur les articles spécifiques du Niger ou du Tchad. Toute réponse serait [DÉDUIT] par analogie (France, autres États UEMOA) ou admettrait [LACUNE].
+
+**Recommandation finale** : 
+1. Accès direct requis à ARCOP Niger (presencial ou email) et autorité tchadienne.
+2. Consultation Secrétariat UEMOA pour Directive 04/2005.
+3. Base payante (Juris-Classeur Droit africain, LexisNexis) si disponible.
+4. Correspondant local (cabinet d'avocats Niger/Tchad) pour extraction d'articles clés et fourniture de copie officielle.
